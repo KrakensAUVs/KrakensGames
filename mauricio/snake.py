@@ -82,7 +82,7 @@ def main():
     alive = True
     while alive:
         win.border(0)
-        win.addstr(0, int(WIDTH/2), f" Score : {score} ")                                 
+        win.addstr(0, int(WIDTH/2), f" level:{diff} - Score : {score} ")                                 
         win.timeout(int(200 - (len(snake)/20)%100))
         key, prevKey, alive = player_input(win, key,prevKey)
         if alive:
