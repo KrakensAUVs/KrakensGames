@@ -144,9 +144,11 @@ while not game_over:
     screen.fill(BLACK)
     screen.blit(maca, maca_pos)
 
-    for x in range(0, 600, 10): # linhas horizontais
+# linhas horizontais
+    for x in range(0, 600, 10):
         pygame.draw.line(screen, (40, 40, 40), (x, 0), (x, 600))
-    for y in range(0, 600, 10): # linhas verticais
+ # linhas verticais
+    for y in range(0, 600, 10):
         pygame.draw.line(screen, (40, 40, 40), (0, y), (600, y))
 
     score_font = font.render('Score: %s' % (score), True, (255, 255, 255))
