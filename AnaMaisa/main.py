@@ -94,3 +94,4 @@ if acertos == len(palavra):
 else:
   print('Infelizmente, você se enforcou...')
   print(forca+boneco[7])
+  print('A palavra era ' + palavra)
