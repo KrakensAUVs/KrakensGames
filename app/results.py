@@ -1,5 +1,6 @@
 from toolbox import read_order_with_problem
 
+#  needs be improved (maybe using Wrong Orders) but it apparently works
 
 def amount_test(product_list, order_list, consumers_list):
     stock = []
@@ -7,10 +8,11 @@ def amount_test(product_list, order_list, consumers_list):
     name = []
     invalid_orders = []
     for i in range(len(order_list) - 1):
-        stock.append(product_list[int(order_list[i + 1].product_id)].product_amount)
-        user_amount.append(order_list[(i + 1)].order_amount)
-        name.append(product_list[int(order_list[i + 1].product_id)].product_name)
+        stock.append(product_list[int(order_list[i + 1].product_id)].product_amount) #  Maybe with constants it will removed
+        user_amount.append(order_list[(i + 1)].order_amount)                         #  Maybe with constants it will removed
+        name.append(product_list[int(order_list[i + 1].product_id)].product_name)    #  Maybe with constants it will removed
         if int(user_amount[i]) > int((stock[i])):
+            #  for debug
             '''
             print(f"{i + 1}) deu ruim1 UA:{user_amount[i]} S:{stock[i]} N:{name[i]}"
                   f" P:{int(user_amount[i]) * float(product_list[int(order_list[i + 1].product_id)].product_price)}"
@@ -24,6 +26,7 @@ def amount_test(product_list, order_list, consumers_list):
         else:
             if int(user_amount[i]) * float(product_list[int(order_list[i + 1].product_id)].product_price) > float(
                     consumers_list[int(order_list[i + 1].consumer_id)].consumer_wallet):
+                #  for debug
                 '''
                 print(f"{i + 1}) deu ruim2 UA:{user_amount[i]} S:{stock[i]} N:{name[i]}"
                       f" P:{int(user_amount[i]) * float(product_list[int(order_list[i + 1].product_id)].product_price)}"
@@ -32,6 +35,7 @@ def amount_test(product_list, order_list, consumers_list):
 
                 invalid_orders.append(read_order_with_problem(order_list[i + 1].order_id, product_list[int(order_list[i + 1].product_id)].product_id, stock[i], name[i], str(consumers_list[int(order_list[i + 1].consumer_id)].consumer_name)))
             else:
+                #  for debug
                 '''
                 print(f"{i + 1}) deu bom UA:{user_amount[i]} S:{stock[i]} N:{name[i]}"
                       f" P:{int(user_amount[i]) * float(product_list[int(order_list[i + 1].product_id)].product_price)}"
