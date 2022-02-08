@@ -11,7 +11,7 @@ class Arquivo:
     print(documento[id])
 
 class Consumer:
-  cliente = Arquivo.ler(1, "consumers.csv")
+  cliente = Arquivo().ler("consumers.csv")
 
   @property
   def nome(self, cliente, id):

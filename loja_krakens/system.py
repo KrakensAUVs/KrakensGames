@@ -1,10 +1,12 @@
 from classes import Arquivo
 
 if __name__ == '__main__':
-  
-  orders = Arquivo.ler(1,"orders.csv")
-  consumers = Arquivo.ler(1, "consumers.csv")
-  products = Arquivo.ler(1, "products.csv")    
 
-  Arquivo.buscar(1, consumers, 8)
+  arquivo = Arquivo()
+  
+  orders = arquivo.ler("orders.csv")
+  consumers = arquivo.ler("consumers.csv")
+  products = arquivo.ler("products.csv")    
+
+  arquivo.buscar(consumers, 8)
 
