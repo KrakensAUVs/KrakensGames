@@ -4,12 +4,6 @@ from orders import Orders
 from consumers import Consumers
 
 
-def read_new_line(file_data):
-    line = file_data.readline().split(',')
-    line = [i.split('\n')[0].replace(" ", "", 1) for i in line]
-    return line
-
-
 def clean_data(data):
     data = data.strip('\n')
     data = data.split(', ')
@@ -36,7 +30,7 @@ def generate_csv(order_error_list):
     df.to_csv(r'errors.csv', index=False, header=True)
     print(df)
 
-
+#  I wish that this function be replaced with class
 def read_order_with_problem(order_id, product_id, product_amount, product_name, consumer_name):
     order = {
         'order_id': order_id,
