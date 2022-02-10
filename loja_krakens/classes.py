@@ -1,6 +1,7 @@
 import csv
 
 class Arquivo:
+
   def ler (self, arq):
     with open(arq) as arquivo:
       leitura = csv.reader(arquivo)
@@ -8,52 +9,45 @@ class Arquivo:
     return array
   
   def buscar (self, documento, id):
-    print(documento[id])
+    print(documento[id][1])
 
 class Consumer:
-  cliente = Arquivo().ler("consumers.csv")
-
-  @property
-  def nome(self, cliente, id):
-    nome = cliente[id][2]
-    return nome
-
-  @property
-  def idade(self, cliente, id):
-    idade = cliente[id][3]
-    return idade
-
-  @property
-  def cep(self, cliente, id):
-    cep = cliente[id][4]
-    return cep
   
   @property
-  def wallet(self, cliente, id):
-    wallet = cliente[id][5]
+  def nome(self, arq, id):
+    nome = arq[id][1]
+    return nome
+  
+  @property
+  def wallet(self, arq, id):
+    wallet = arq[id][4]
     return wallet
 
-class Order:
-  def __init__(self, wallet, qtd, estoque, valor):
-    self.__wallet = wallet
-    self.__qtd = qtd
-    self.__estoque = estoque
-    self.__valor = valor
-  
-  @property
-  def wallet(self):
-      return self.__wallet
-  
-  @property
-  def qtd(self):
-      return self.__qtd
+class Conferir:
 
-  @property
-  def estoque(self):
-      return self.__estoque
+  def qtd_estoque(self, qtd, estoque):
+    if qtd <= estoque:
+      return 1
+    else:
+      return 0
   
-  @property
-  def valor(self):
-      return self.__valor
+  def money_disp(self, wallet, valor, qtd):
+    if wallet >= (valor*qtd):
+      return 1
+    else:
+      return 0
+  
+  def resultado_existente(self, consumer_id, resultados):
+
+    n = 0
+
+    for resultado in resultados:
+      if n > 1:
+        id_cons = int(resultado[0])
+        if id_cons == consumer_id:
+          return 1
+      n = n+1  
+    return 0
+
     
     
