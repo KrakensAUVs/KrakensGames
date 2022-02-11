@@ -12,13 +12,6 @@ def amount_test(product_list, order_list, consumers_list):
         user_amount.append(order_list[(i)].order_amount)                         #  Maybe with constants it will removed
         name.append(product_list[int(order_list[i].product_id)].product_name)    #  Maybe with constants it will removed
         if int(user_amount[i]) > int((stock[i])):
-            #  for debug
-            '''
-            print(f"{i + 1}) deu ruim1 UA:{user_amount[i]} S:{stock[i]} N:{name[i]}"
-                  f" P:{int(user_amount[i]) * float(product_list[int(order_list[i + 1].product_id)].product_price)}"
-                  f" W:{float(consumers_list[int(order_list[i + 1].consumer_id)].consumer_wallet)}")
-            '''
-
             invalid_orders.append(read_order_with_problem(order_list[i].order_id,
                                                           product_list[int(order_list[i + 1].product_id)].product_id,
                                                           stock[i], name[i], str(
@@ -26,21 +19,8 @@ def amount_test(product_list, order_list, consumers_list):
         else:
             if int(user_amount[i]) * float(product_list[int(order_list[i].product_id)].product_price) > float(
                     consumers_list[int(order_list[i].consumer_id)].consumer_wallet):
-                #  for debug
-                '''
-                print(f"{i + 1}) deu ruim2 UA:{user_amount[i]} S:{stock[i]} N:{name[i]}"
-                      f" P:{int(user_amount[i]) * float(product_list[int(order_list[i + 1].product_id)].product_price)}"
-                      f" W:{float(consumers_list[int(order_list[i + 1].consumer_id)].consumer_wallet)}")
-                '''
-
                 invalid_orders.append(read_order_with_problem(order_list[i].order_id, product_list[int(order_list[i].product_id)].product_id, stock[i], name[i], str(consumers_list[int(order_list[i].consumer_id)].consumer_name)))
             else:
-                #  for debug
-                '''
-                print(f"{i + 1}) deu bom UA:{user_amount[i]} S:{stock[i]} N:{name[i]}"
-                      f" P:{int(user_amount[i]) * float(product_list[int(order_list[i + 1].product_id)].product_price)}"
-                      f" W:{float(consumers_list[int(order_list[i + 1].consumer_id)].consumer_wallet)}")
-                '''
                 product_list[int(order_list[i].product_id)].subtract_amount(user_amount[i])
                 consumers_list[int(order_list[i].consumer_id)].subtract_wallet(int(user_amount[i]) * float(product_list[int(order_list[i].product_id)].product_price))
     return invalid_orders
