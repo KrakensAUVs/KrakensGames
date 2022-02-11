@@ -9,38 +9,30 @@ class Arquivo:
     return array
   
   def buscar (self, documento, id):
-    print(documento[id][1])
+    print(documento[id])
 
-class Consumer:
+# class Consumer: ARRUMAR
   
-  @property
-  def nome(self, arq, id):
-    nome = arq[id][1]
-    return nome
+#   @property
+#   def nome(self, arq, id):
+#     nome = arq[id][1]
+#     return nome
   
-  @property
-  def wallet(self, arq, id):
-    wallet = arq[id][4]
-    return wallet
+#   @property
+#   def wallet(self, arq, id):
+#     wallet = arq[id][4]
+#     return wallet
 
 class Conferir:
 
   def qtd_estoque(self, qtd, estoque):
-    if qtd <= estoque:
-      return 1
-    else:
-      return 0
+    return True if qtd <= estoque else False
   
   def money_disp(self, wallet, valor, qtd):
-    if wallet >= (valor*qtd):
-      return 1
-    else:
-      return 0
+    return True if wallet >= (valor*qtd) else False
   
   def resultado_existente(self, consumer_id, resultados):
-
     n = 0
-
     for resultado in resultados:
       if n > 1:
         id_cons = int(resultado[0])

@@ -35,7 +35,7 @@ if __name__ == '__main__':
       valor = float(products[product_id][4])
 
       #Conferindo quantidade em estoque e se o usuário tem dinheiro disponível na carteira
-      if conferir.qtd_estoque(qtd, estoque) == 1 and conferir.money_disp(wallet, valor, qtd) == 1:
+      if conferir.qtd_estoque(qtd, estoque) and conferir.money_disp(wallet, valor, qtd):
         #Atualizando os dados do produto e do consumidor
         products[product_id][3] = estoque -  qtd
         consumers[consumer_id][4] = wallet - valor
