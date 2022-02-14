@@ -20,14 +20,14 @@ def load_csv(csv_name):
             'orders': Orders,
             'consumers': Consumers
         }
-        data_list.append(class_selection.get(f'{csv_name}')(*clean_data(csv_product_line)))
+        data_list.append(class_selection.get(f'./data/{csv_name}')(*clean_data(csv_product_line)))
 
     return data_list
 
 
 def generate_csv(order_error_list):
     df = pd.DataFrame.from_dict(order_error_list)
-    df.to_csv(r'errors.csv', index=False, header=True)
+    df.to_csv(r'./data/errors.csv', index=False, header=True)
 
 
 def print_data(consumers_list):
