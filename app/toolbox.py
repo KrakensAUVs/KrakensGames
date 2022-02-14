@@ -36,9 +36,10 @@ def print_data(consumers_list):
     for i in range(1, len(consumers_list) - 1):
         if consumers_list[i].error_number() > 0:
             invalid = {
-                'consumer': consumers_list[i].consumer_name,
-                'error_number': consumers_list[i].error_number(),
-                'errors': consumers_list[i].get_errors()
+                'consumer_id': consumers_list[i].consumer_id,
+                'consumer_name': consumers_list[i].consumer_name,
+                'errors_number': consumers_list[i].error_number(),
+                #  'errors': consumers_list[i].get_errors()
             }
             invalids_orders.append(invalid)
     generate_csv(invalids_orders)
