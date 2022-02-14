@@ -7,4 +7,8 @@ class Products:
         self.product_price = product_price
 
     def subtract_amount(self, quantity):
-        self.product_amount = float(self.product_amount) - float(quantity)
+        if float(quantity) <= float(self.product_amount):
+            self.product_amount = float(self.product_amount) - float(quantity)
+            return True
+        else:
+            return False

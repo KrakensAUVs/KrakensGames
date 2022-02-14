@@ -28,15 +28,16 @@ def load_csv(csv_name):
 def generate_csv(order_error_list):
     df = pd.DataFrame.from_dict(order_error_list)
     df.to_csv(r'errors.csv', index=False, header=True)
-    print(df)
 
-#  I wish that this function be replaced with class
-def read_order_with_problem(order_id, product_id, product_amount, product_name, consumer_name):
-    order = {
-        'order_id': order_id,
-        'product_id': product_id,
-        'product_amount': product_amount,
-        'product_name': product_name,
-        'consumer_name': consumer_name
-    }
-    return order
+
+def print_data(consumers_list):
+    invalids_orders = []
+    for i in range(1, len(consumers_list) - 1):
+        if consumers_list[i].error_number() > 0:
+            invalid = {
+                'consumer': consumers_list[i].consumer_name,
+                'error_number': consumers_list[i].error_number(),
+                'errors': consumers_list[i].get_errors()
+            }
+            invalids_orders.append(invalid)
+    generate_csv(invalids_orders)
