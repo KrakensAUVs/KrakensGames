@@ -11,17 +11,6 @@ class Arquivo:
   def buscar (self, documento, id):
     print(documento[id])
 
-# class Consumer: ARRUMAR
-  
-#   @property
-#   def nome(self, arq, id):
-#     nome = arq[id][1]
-#     return nome
-  
-#   @property
-#   def wallet(self, arq, id):
-#     wallet = arq[id][4]
-#     return wallet
 
 class Conferir:
 
