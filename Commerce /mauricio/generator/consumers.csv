@@ -1,0 +1,1001 @@
+id, name, age, CEP, wallet
+11, Nicole Medeiros, 28, 72901-718, 2513.37
+17, Kléber Medeiros Assis, 58, 72872-385, 2939.47
+38, Gilmar Assis Lopes, 21, 50900-230, 1865.88
+75, Antônio Leal, 30, 72901-718, 467.28
+115, Valdomiro da Silva Lopes, 55, 64211-140, 373.24
+127, Taís Vargas Simões, 56, 44044-257, 518.11
+157, Isabela Correia, 21, 91360-160, 637.42
+174, Heloísa Quadros, 20, 50900-230, 4454.61
+176, Isabela Ito Machado, 20, 72872-385, 4810.74
+189, Taís Simões Vaz, 43, 91360-160, 4837.1
+229, Elaine Paschoal Medeiros, 40, 36081-770, 4535.73
+244, Isabela Machado, 41, 83305-500, 1739.12
+255, Poliane Braga, 44, 36081-770, 177.07
+275, Rafael Monteiro Silveira, 58, 36081-770, 1233.25
+281, Adriano Falcão Arruda, 40, 49072-600, 1932.85
+291, Antônio Vargas, 22, 83305-500, 291.58
+327, Janaína Gimenes, 41, 50900-230, 2635.73
+360, Nicole Correia Oliveira, 34, 91360-160, 862.34
+365, Elaine Carmo, 50, 72872-385, 4414.84
+386, Elaine Paim, 43, 72901-718, 658.71
+386, Elaine Medeiros, 32, 44044-257, 630.06
+416, Beatriz Falcão Oliveira, 18, 72872-385, 1756.25
+443, Carlos Pacheco, 51, 50900-230, 706.19
+480, Beatriz Machado, 44, 77415-862, 1667.75
+521, Elaine Paschoal, 23, 54786-220, 2909.6
+525, Rafael Falcão Ito, 40, 72901-718, 1554.9
+572, Nicolas Pacheco, 43, 72901-718, 3573.77
+598, Beatriz Vargas, 27, 36081-770, 3164.07
+628, Elaine Cavalcanti Arruda, 60, 72901-718, 965.89
+665, Heloísa Carmo, 37, 49072-600, 53.1
+713, Gilmar Machado Leal, 49, 77415-862, 4948.11
+736, Fernando Paim, 37, 91360-160, 1556.62
+778, Heloísa Assis, 34, 83221-160, 2932.1
+824, Nicole Vaz, 24, 65042-240, 68.56
+827, Gilmar Assis Falcão, 52, 83221-160, 702.51
+857, Gilmar Vaz, 18, 65042-240, 1862.83
+902, Valdomiro Simões, 37, 68371-360, 3642.43
+906, Beatriz Braga, 47, 44044-257, 4693.81
+915, Isabela Monteiro, 25, 77415-862, 4777.59
+937, Fernando Vaz Monteiro, 45, 72901-718, 3103.64
+953, Taís Silveira Simões, 54, 64211-140, 1161.0
+1000, Taís Assis, 39, 44044-257, 2419.41
+1048, Gilmar Braga Falcão, 22, 44044-257, 3769.28
+1090, Carina Paim Barroso, 30, 64211-140, 1810.93
+1091, Taís Machado, 43, 54786-220, 2912.14
+1111, Nicolas Lopes, 38, 44044-257, 2022.1
+1144, Isabela Lobo, 36, 72901-718, 3005.13
+1156, Poliane Lopes Oliveira, 49, 83221-160, 3775.47
+1157, Fabiana Assis, 30, 44044-257, 2295.22
+1172, Beatriz da Cunha Monteiro, 20, 54786-220, 981.78
+1177, Nicolas Silveira, 19, 36081-770, 2415.21
+1207, Antônio Simões Nazário, 27, 83221-160, 2883.55
+1235, Nicolas Pedroso Oliveira, 18, 36081-770, 4934.32
+1270, Taís da Cunha Gimenes, 36, 64211-140, 768.54
+1303, Fabiana Ruiz, 25, 77415-862, 2017.59
+1338, Adriano Gimenes, 58, 72901-718, 2285.19
+1338, Nicolas de Salles, 59, 36081-770, 3140.05
+1382, Beatriz Lobo, 40, 77415-862, 1553.38
+1428, Rafael Lopes Gimenes, 30, 54786-220, 2204.46
+1472, Taís Fraga Simões, 47, 72872-385, 671.66
+1500, Antônio Pacheco Farias, 49, 83221-160, 4023.09
+1533, Nicolas Lobo Oliveira, 19, 54786-220, 2357.36
+1568, Carina Machado, 26, 91360-160, 1426.77
+1586, Elaine Machado, 20, 44044-257, 3467.53
+1620, Gilmar Machado, 18, 36081-770, 338.71
+1635, Valdomiro da Cunha Vaz, 37, 49072-600, 3281.88
+1644, Heloísa da Cruz, 57, 65042-240, 1515.0
+1657, Rafael Correia Medeiros, 20, 65042-240, 3961.87
+1677, Poliane Fraga Falcão, 31, 83305-500, 3650.52
+1697, Kléber Monteiro, 56, 44044-257, 1372.96
+1732, Poliane Farias Arruda, 23, 36081-770, 2122.08
+1764, Antônio Gimenes, 32, 36081-770, 3042.38
+1768, Kléber Paschoal Vargas, 47, 50900-230, 108.82
+1804, Elaine Carmo, 60, 36081-770, 3300.01
+1846, Rafael Barroso Machado, 51, 36081-770, 2549.55
+1890, Taís Gimenes, 40, 65042-240, 1425.17
+1916, Taís Lima, 45, 44044-257, 4726.04
+1918, Gilmar da Silva, 44, 68371-360, 3213.18
+1948, Fabiana Ito Cavalcanti, 59, 72872-385, 1571.21
+1988, Poliane da Cruz, 42, 68371-360, 4391.06
+1995, Émerson Medeiros Machado, 46, 49072-600, 3594.05
+2020, Fernando Cavalcanti, 33, 36081-770, 1272.55
+2056, Poliane Carmo, 22, 49072-600, 4869.19
+2096, Taís Falcão Braga, 47, 49072-600, 4839.86
+2142, Valdomiro Oliveira Lobo, 59, 36081-770, 500.52
+2170, Heloísa Damasceno, 50, 36081-770, 3068.68
+2218, Isabela da Silva Lopes, 58, 91360-160, 1624.93
+2242, Carlos Assis Machado, 42, 54786-220, 2801.56
+2273, Émerson Machado da Cunha, 30, 54786-220, 615.65
+2279, Kléber Braz, 29, 50900-230, 3987.81
+2328, Heloísa Velho, 58, 77415-862, 3550.47
+2367, Elaine Silveira, 30, 44044-257, 1718.7
+2382, Beatriz Nazário, 60, 83221-160, 2140.34
+2418, Fabiana Lima, 50, 54786-220, 1811.88
+2458, Antônio Carmo, 39, 54786-220, 1938.4
+2467, Heloísa Assis, 52, 64211-140, 3239.06
+2488, Janaína Assis Ruiz, 41, 44044-257, 2024.85
+2515, Antônio Fraga, 45, 83221-160, 2172.81
+2526, Valdomiro Carmo Medeiros, 41, 44044-257, 435.9
+2529, Poliane Braz Damasceno, 26, 72872-385, 3019.15
+2546, Poliane Paim, 51, 68371-360, 2228.83
+2570, Poliane Pedroso Machado, 58, 36081-770, 4698.59
+2576, Nicole Cavalcanti, 20, 49072-600, 2937.17
+2612, Isabela Farias, 46, 72872-385, 4394.81
+2658, Adriano Carmo, 48, 65042-240, 3928.24
+2690, Adriano Vaz Vargas, 56, 83305-500, 3275.25
+2724, Rafael Pedroso, 57, 83305-500, 1307.68
+2748, Taís Lopes, 48, 72872-385, 3518.92
+2788, Fernando Vargas Leal, 33, 54786-220, 4283.16
+2806, Émerson Medeiros, 52, 83305-500, 750.73
+2821, Rafael Gimenes, 36, 54786-220, 2363.82
+2859, Heloísa Medeiros Braga, 47, 72872-385, 3178.98
+2883, Émerson Machado, 28, 77415-862, 3791.84
+2913, Carina Machado Monteiro, 31, 54786-220, 4893.15
+2922, Kléber Quadros Ito, 44, 64211-140, 831.59
+2931, Janaína Velho Pedroso, 45, 50900-230, 4699.15
+2970, Elaine Nazário, 19, 44044-257, 2819.26
+3011, Janaína Paim Ito, 59, 36081-770, 662.79
+3058, Rafael Gimenes Vaz, 18, 83305-500, 3086.78
+3086, Poliane Silveira, 31, 83221-160, 3800.49
+3128, Rafael Barroso Medeiros, 25, 50900-230, 1915.89
+3171, Carlos Ruiz, 41, 77415-862, 3133.0
+3207, Kléber Vaz Medeiros, 56, 64211-140, 851.49
+3241, Kléber Falcão Monteiro, 46, 49072-600, 1770.04
+3273, Gilmar Damasceno Vaz, 23, 72901-718, 1879.79
+3306, Adriano Pacheco Lopes, 49, 77415-862, 4225.73
+3339, Nicole Simões Lobo, 26, 72901-718, 4521.34
+3350, Antônio Lobo, 23, 65042-240, 4434.0
+3381, Nicole Falcão, 20, 77415-862, 1488.03
+3423, Rafael Monteiro Gimenes, 53, 64211-140, 4910.54
+3429, Antônio da Cruz Falcão, 47, 54786-220, 3586.95
+3452, Valdomiro Damasceno Ruiz, 46, 68371-360, 2009.45
+3456, Janaína da Silva, 39, 65042-240, 1273.35
+3457, Isabela Correia Fraga, 48, 49072-600, 1010.8
+3506, Adriano Cavalcanti Nazário, 43, 54786-220, 2006.09
+3527, Heloísa Damasceno da Cruz, 18, 49072-600, 3824.39
+3576, Carlos Machado Arruda, 29, 36081-770, 3437.11
+3583, Fabiana da Silva Simões, 24, 64211-140, 698.25
+3585, Gilmar Falcão Pacheco, 30, 83221-160, 2973.5
+3630, Beatriz Pedroso Ito, 55, 72901-718, 1638.53
+3656, Antônio Braz Leal, 58, 83305-500, 2203.47
+3657, Nicolas Fraga, 26, 44044-257, 1907.25
+3667, Rafael Barroso Velho, 23, 68371-360, 1878.59
+3670, Émerson Falcão Arruda, 47, 65042-240, 2104.77
+3713, Isabela da Cunha Arruda, 43, 44044-257, 573.74
+3753, Taís Pedroso Pedroso, 57, 54786-220, 4354.43
+3783, Adriano Medeiros, 46, 50900-230, 1442.38
+3825, Antônio Braz da Silva, 20, 91360-160, 1204.58
+3842, Émerson Lobo, 40, 91360-160, 386.16
+3875, Heloísa da Cunha, 55, 83221-160, 2587.18
+3876, Rafael Lopes Oliveira, 58, 64211-140, 963.65
+3886, Antônio Lima da Silva, 18, 83305-500, 4006.68
+3910, Carina Ruiz, 54, 83305-500, 3492.39
+3919, Poliane Farias, 27, 77415-862, 4969.33
+3937, Carina da Silva, 55, 83305-500, 663.38
+3973, Isabela Falcão, 56, 64211-140, 2042.87
+4007, Fernando Barroso Arruda, 50, 72901-718, 3120.1
+4021, Elaine Lobo, 40, 72901-718, 3146.96
+4033, Poliane Braz, 26, 64211-140, 2514.41
+4040, Taís Assis, 35, 44044-257, 2722.77
+4054, Fernando Barroso Gimenes, 43, 36081-770, 1627.4
+4059, Poliane Braga, 36, 72872-385, 3992.52
+4088, Isabela da Silva Oliveira, 40, 91360-160, 1423.26
+4131, Valdomiro Oliveira Oliveira, 51, 54786-220, 1126.77
+4165, Janaína Braga Machado, 30, 50900-230, 3195.97
+4200, Isabela Quadros Paschoal, 19, 91360-160, 1074.55
+4227, Gilmar Barroso, 25, 72872-385, 2688.35
+4232, Carina Medeiros, 28, 77415-862, 4513.28
+4274, Valdomiro Ito, 57, 49072-600, 988.89
+4278, Fernando Fraga Barroso, 33, 49072-600, 1398.78
+4310, Beatriz Oliveira Braz, 44, 49072-600, 1291.43
+4346, Carlos Lobo Paschoal, 22, 91360-160, 1060.85
+4350, Poliane Ruiz, 31, 44044-257, 4385.96
+4396, Émerson da Silva Quadros, 28, 36081-770, 548.4
+4415, Carina Lopes, 46, 65042-240, 219.3
+4434, Gilmar Falcão, 18, 36081-770, 3457.09
+4473, Carlos Barroso Arruda, 24, 65042-240, 3974.17
+4484, Gilmar Simões, 53, 83305-500, 1329.08
+4509, Isabela Vaz Gimenes, 54, 83221-160, 1930.74
+4542, Elaine Paim Pedroso, 48, 64211-140, 1389.37
+4548, Nicole Carmo Quadros, 23, 65042-240, 149.52
+4563, Beatriz Quadros, 57, 54786-220, 1572.55
+4572, Adriano Lima, 29, 72872-385, 84.87
+4614, Nicolas de Salles Vaz, 20, 91360-160, 683.39
+4645, Gilmar Lima, 55, 65042-240, 4259.39
+4669, Heloísa Monteiro, 38, 54786-220, 4961.32
+4706, Isabela Silveira Gimenes, 28, 72872-385, 1473.03
+4728, Carina Lima Braz, 34, 83221-160, 1201.33
+4731, Fernando Farias, 58, 65042-240, 4536.65
+4755, Fabiana Medeiros Oliveira, 32, 72872-385, 2439.52
+4799, Beatriz Lima, 25, 44044-257, 4959.06
+4833, Fernando Vaz Paim, 53, 72901-718, 2827.53
+4845, Heloísa de Salles Pedroso, 21, 91360-160, 662.82
+4878, Adriano Gimenes, 54, 83305-500, 1678.11
+4890, Gilmar da Cunha, 53, 83305-500, 4457.35
+4915, Carlos Arruda, 27, 65042-240, 3432.43
+4927, Adriano Silveira Pedroso, 56, 65042-240, 2977.92
+4962, Taís Velho Falcão, 46, 83221-160, 3255.23
+4981, Valdomiro Correia Monteiro, 46, 50900-230, 2906.45
+5013, Isabela Assis Velho, 24, 49072-600, 3448.56
+5042, Poliane Pedroso Ito, 54, 91360-160, 1181.09
+5068, Janaína Carmo, 24, 44044-257, 2608.21
+5096, Fernando Vargas Falcão, 18, 50900-230, 1917.9
+5100, Nicole Lobo de Salles, 41, 91360-160, 4362.59
+5132, Elaine Ito, 22, 77415-862, 4116.94
+5138, Heloísa Damasceno Assis, 21, 49072-600, 3817.37
+5170, Rafael Quadros Gimenes, 33, 50900-230, 517.37
+5184, Janaína Ruiz da Silva, 49, 91360-160, 366.87
+5199, Fabiana Vaz, 51, 91360-160, 2164.97
+5228, Valdomiro da Silva Vargas, 43, 91360-160, 3496.55
+5248, Fabiana Simões Braz, 18, 36081-770, 2880.03
+5283, Émerson Velho, 23, 44044-257, 4267.28
+5290, Adriano Farias, 57, 72901-718, 2443.44
+5298, Carlos Simões Correia, 41, 49072-600, 1871.91
+5347, Isabela Silveira, 41, 72901-718, 1667.93
+5385, Émerson Medeiros, 29, 65042-240, 1974.66
+5427, Heloísa Lobo Pacheco, 57, 50900-230, 4709.96
+5431, Heloísa Cavalcanti Pacheco, 55, 72901-718, 3615.26
+5471, Kléber Oliveira Fraga, 19, 64211-140, 2749.2
+5506, Isabela da Silva, 54, 50900-230, 4762.9
+5529, Fernando Machado Vargas, 20, 49072-600, 3272.19
+5564, Nicole Assis, 31, 64211-140, 434.63
+5580, Valdomiro Cavalcanti, 39, 77415-862, 4679.79
+5615, Valdomiro Simões, 50, 36081-770, 3251.69
+5647, Émerson Barroso, 34, 44044-257, 1412.9
+5683, Kléber de Salles, 32, 68371-360, 3799.29
+5686, Nicole Paim, 20, 36081-770, 1894.18
+5703, Adriano Monteiro da Cunha, 56, 72872-385, 1153.69
+5716, Poliane de Salles, 34, 49072-600, 112.76
+5716, Janaína Carmo, 57, 36081-770, 2376.97
+5742, Taís Assis Machado, 28, 64211-140, 2910.63
+5786, Poliane Velho Paschoal, 36, 72872-385, 4850.64
+5832, Heloísa Leal, 30, 83305-500, 4570.33
+5858, Rafael Vargas, 33, 64211-140, 729.77
+5888, Antônio Damasceno, 23, 50900-230, 1814.93
+5915, Elaine Gimenes, 52, 83305-500, 4303.87
+5917, Carlos Falcão Barroso, 30, 72901-718, 3318.62
+5922, Fabiana de Salles, 34, 50900-230, 1864.77
+5959, Fernando Nazário, 57, 77415-862, 4391.57
+5986, Gilmar de Salles, 32, 36081-770, 2405.1
+6021, Antônio Nazário, 36, 44044-257, 3690.02
+6023, Nicole Cavalcanti Carmo, 35, 65042-240, 3913.43
+6044, Rafael Damasceno, 44, 68371-360, 3148.89
+6047, Fabiana Leal, 54, 65042-240, 117.61
+6075, Heloísa de Salles Machado, 56, 49072-600, 1825.95
+6097, Janaína Falcão, 42, 72901-718, 490.07
+6126, Gilmar Machado, 38, 50900-230, 3989.53
+6171, Nicolas Oliveira, 29, 49072-600, 4397.53
+6184, Nicole da Cruz, 45, 77415-862, 4814.18
+6206, Heloísa Lima, 21, 50900-230, 1785.43
+6210, Beatriz Gimenes, 52, 64211-140, 3521.78
+6213, Taís Oliveira Lopes, 53, 77415-862, 2264.86
+6257, Carina Assis Braga, 35, 36081-770, 714.98
+6265, Janaína Simões Lopes, 19, 91360-160, 3446.7
+6313, Taís Monteiro, 50, 44044-257, 3428.41
+6334, Adriano da Cunha Pedroso, 37, 65042-240, 4566.37
+6363, Carlos Paim, 33, 72901-718, 4127.44
+6369, Adriano Vaz, 20, 64211-140, 4396.48
+6409, Fabiana Lima Velho, 44, 83305-500, 1396.75
+6420, Fabiana Simões, 25, 72872-385, 4336.53
+6446, Fabiana Falcão da Silva, 22, 36081-770, 708.76
+6454, Fabiana Ito, 56, 65042-240, 3078.42
+6480, Émerson Falcão de Salles, 47, 83305-500, 650.21
+6527, Heloísa Lima, 25, 36081-770, 4977.31
+6565, Adriano Falcão, 32, 72901-718, 114.96
+6593, Nicolas Fraga, 51, 68371-360, 4398.78
+6619, Émerson Pedroso, 34, 83221-160, 4764.09
+6624, Kléber Monteiro, 27, 44044-257, 772.09
+6667, Janaína Ruiz Velho, 31, 83305-500, 3982.34
+6711, Janaína de Salles, 48, 49072-600, 4799.53
+6719, Nicolas Correia Oliveira, 44, 65042-240, 540.3
+6742, Valdomiro Correia Damasceno, 36, 65042-240, 2833.35
+6787, Adriano Monteiro Lima, 36, 91360-160, 1563.3
+6807, Isabela Monteiro Pedroso, 19, 49072-600, 4558.05
+6856, Carina Paim, 34, 91360-160, 3527.82
+6860, Beatriz Vaz, 39, 50900-230, 774.63
+6891, Émerson Braz Lima, 32, 36081-770, 1723.88
+6923, Fernando Carmo, 37, 68371-360, 500.83
+6937, Rafael Pacheco, 39, 77415-862, 4047.44
+6942, Poliane Paschoal, 53, 54786-220, 1590.65
+6969, Antônio Braga Simões, 22, 72872-385, 4937.78
+7014, Adriano da Silva, 48, 72872-385, 4415.53
+7033, Nicole Silveira, 21, 64211-140, 1337.59
+7044, Adriano Monteiro, 47, 54786-220, 3473.72
+7085, Fabiana Fraga Ruiz, 32, 44044-257, 3471.82
+7086, Carina da Cruz, 30, 68371-360, 877.87
+7108, Elaine Machado Paim, 45, 68371-360, 1048.7
+7133, Émerson Leal Velho, 59, 91360-160, 4561.81
+7137, Fernando Paschoal Damasceno, 45, 83221-160, 58.36
+7178, Janaína Lopes, 20, 91360-160, 478.32
+7223, Gilmar Assis, 23, 54786-220, 4158.21
+7260, Gilmar Correia Ruiz, 59, 77415-862, 4216.42
+7295, Rafael Vaz, 45, 50900-230, 1020.35
+7321, Antônio Gimenes, 22, 64211-140, 1831.39
+7361, Gilmar Pacheco, 25, 83305-500, 4818.73
+7392, Elaine Cavalcanti, 20, 64211-140, 4157.4
+7439, Isabela da Cunha, 47, 54786-220, 2721.74
+7442, Elaine Medeiros, 50, 77415-862, 1013.37
+7463, Carina Gimenes Ruiz, 36, 44044-257, 3331.59
+7468, Nicolas Gimenes Simões, 24, 44044-257, 4203.53
+7468, Fabiana Ito Damasceno, 26, 44044-257, 484.45
+7490, Nicole Arruda, 52, 44044-257, 2599.01
+7513, Isabela de Salles Nazário, 41, 83305-500, 387.55
+7526, Émerson Arruda Simões, 28, 72901-718, 485.27
+7541, Émerson Ito, 20, 36081-770, 314.87
+7562, Janaína Velho Machado, 57, 54786-220, 2417.81
+7575, Valdomiro Ito, 42, 50900-230, 4973.63
+7578, Beatriz Machado, 30, 50900-230, 668.97
+7613, Gilmar Pedroso, 34, 83305-500, 2497.89
+7614, Fernando da Cunha Pacheco, 45, 91360-160, 1050.06
+7630, Nicole Ruiz, 55, 64211-140, 4694.34
+7630, Gilmar Simões Fraga, 44, 44044-257, 779.86
+7643, Carina Oliveira, 52, 65042-240, 4981.74
+7692, Kléber Machado Falcão, 29, 83221-160, 4238.7
+7726, Nicolas Leal, 37, 36081-770, 2319.65
+7774, Beatriz Braga, 55, 36081-770, 3947.75
+7811, Valdomiro Correia, 28, 72901-718, 3872.07
+7832, Émerson Arruda, 52, 44044-257, 4139.82
+7866, Nicolas Braz, 45, 72872-385, 4605.43
+7871, Beatriz Ito Falcão, 55, 64211-140, 1672.5
+7891, Nicole Paschoal Braz, 34, 83221-160, 3873.39
+7907, Heloísa Lima, 33, 91360-160, 4700.76
+7944, Fernando Correia Simões, 60, 36081-770, 1746.33
+7980, Rafael da Cruz Cavalcanti, 55, 83305-500, 2178.41
+8016, Heloísa Silveira Machado, 21, 91360-160, 1628.34
+8044, Isabela Cavalcanti Braz, 31, 72872-385, 1522.31
+8085, Émerson Braga, 48, 49072-600, 2700.12
+8109, Fabiana Leal Barroso, 45, 77415-862, 2519.5
+8145, Nicolas Braga, 20, 77415-862, 2771.76
+8179, Kléber Machado Lima, 50, 50900-230, 3541.22
+8199, Nicole Leal Arruda, 31, 68371-360, 2131.11
+8224, Janaína Correia Oliveira, 50, 72901-718, 4077.46
+8246, Kléber Machado, 21, 83305-500, 1554.97
+8266, Carlos Braga, 45, 54786-220, 4894.39
+8310, Nicole Quadros, 36, 72901-718, 4676.0
+8357, Poliane Machado Silveira, 55, 83221-160, 1079.94
+8374, Nicole de Salles Gimenes, 49, 77415-862, 106.29
+8385, Beatriz da Cruz de Salles, 56, 36081-770, 1171.04
+8408, Janaína Correia, 27, 49072-600, 4149.93
+8425, Kléber Lobo Cavalcanti, 42, 77415-862, 4686.71
+8470, Valdomiro Medeiros, 50, 65042-240, 740.29
+8491, Rafael Correia, 55, 83305-500, 203.13
+8508, Rafael Velho Falcão, 59, 68371-360, 383.9
+8527, Nicolas Vaz Lobo, 48, 77415-862, 4329.02
+8539, Émerson Machado Braga, 56, 72872-385, 2995.37
+8545, Gilmar Arruda, 49, 77415-862, 4042.17
+8550, Taís Pacheco Velho, 58, 65042-240, 4062.55
+8555, Émerson Velho da Cruz, 27, 44044-257, 2004.53
+8580, Carina Braga, 56, 64211-140, 1714.08
+8589, Janaína Silveira, 58, 83305-500, 1083.96
+8633, Carlos Fraga da Cruz, 18, 49072-600, 1283.48
+8643, Antônio Nazário, 60, 65042-240, 4546.31
+8657, Carina Monteiro Cavalcanti, 45, 83221-160, 2173.51
+8691, Fernando Paschoal Silveira, 22, 36081-770, 3211.15
+8726, Poliane Vargas Pedroso, 27, 91360-160, 4657.56
+8737, Nicolas Damasceno, 49, 50900-230, 640.81
+8750, Janaína Vargas Correia, 30, 77415-862, 2537.69
+8776, Carina Braga Fraga, 33, 64211-140, 3131.01
+8796, Beatriz Braga, 52, 49072-600, 3309.6
+8844, Adriano Cavalcanti, 35, 72901-718, 1964.49
+8867, Beatriz Fraga Lobo, 25, 68371-360, 643.62
+8887, Fabiana Pacheco Braz, 30, 91360-160, 2061.7
+8920, Elaine da Cruz Oliveira, 46, 68371-360, 679.22
+8927, Rafael Simões, 38, 72901-718, 4215.91
+8946, Isabela Nazário, 55, 54786-220, 4922.81
+8991, Valdomiro Braga, 29, 72901-718, 1026.2
+9012, Fernando Vaz Gimenes, 38, 91360-160, 508.74
+9020, Nicole Gimenes Quadros, 44, 64211-140, 3521.02
+9023, Émerson Pacheco Ito, 35, 68371-360, 3667.55
+9065, Rafael Carmo, 59, 83221-160, 2131.58
+9072, Rafael da Cunha, 57, 49072-600, 1653.7
+9101, Janaína Oliveira de Salles, 60, 64211-140, 641.6
+9150, Rafael Falcão, 35, 36081-770, 3700.17
+9165, Elaine da Cunha Barroso, 35, 83305-500, 4740.52
+9178, Carina Correia, 18, 83221-160, 1935.73
+9194, Antônio Farias, 52, 72901-718, 3654.75
+9210, Émerson Simões Medeiros, 45, 44044-257, 204.49
+9250, Isabela Damasceno Lima, 24, 54786-220, 4632.33
+9296, Taís Lopes Braga, 20, 54786-220, 1755.03
+9338, Elaine Quadros Quadros, 35, 49072-600, 523.26
+9344, Adriano Pacheco, 50, 83305-500, 2045.79
+9357, Gilmar Lobo Ito, 35, 77415-862, 4009.38
+9390, Nicolas Lopes, 48, 83305-500, 3473.0
+9394, Fabiana da Silva, 19, 64211-140, 3461.88
+9414, Nicolas Vargas da Silva, 40, 54786-220, 4259.52
+9457, Kléber Silveira Lima, 22, 65042-240, 2585.51
+9472, Poliane Nazário, 58, 77415-862, 4340.75
+9480, Fernando Lobo, 27, 36081-770, 102.66
+9527, Gilmar Monteiro Lopes, 27, 77415-862, 1736.94
+9558, Janaína Nazário Gimenes, 44, 50900-230, 4161.02
+9561, Valdomiro Fraga Barroso, 52, 72901-718, 2641.79
+9565, Rafael Lopes Damasceno, 34, 44044-257, 4859.28
+9584, Fernando da Silva da Silva, 60, 83305-500, 990.57
+9586, Elaine Simões Velho, 60, 91360-160, 4992.08
+9610, Fabiana da Cruz, 43, 36081-770, 1508.62
+9621, Rafael Cavalcanti Braz, 20, 65042-240, 4536.29
+9646, Janaína Arruda Arruda, 24, 77415-862, 2652.65
+9689, Poliane da Silva, 28, 72901-718, 3117.45
+9723, Taís Paschoal de Salles, 33, 49072-600, 3275.91
+9746, Adriano Vargas Braga, 25, 77415-862, 1445.21
+9751, Heloísa Damasceno, 48, 64211-140, 314.33
+9800, Elaine Nazário Vargas, 23, 54786-220, 4938.95
+9806, Nicole Correia, 57, 77415-862, 250.46
+9808, Carina da Cruz Lima, 45, 65042-240, 3379.71
+9853, Isabela da Cunha, 30, 36081-770, 1372.11
+9862, Beatriz de Salles Vargas, 40, 49072-600, 4768.03
+9907, Nicolas Lima Braz, 35, 83305-500, 3207.8
+9926, Poliane da Cunha, 25, 83305-500, 2888.58
+9968, Émerson Vargas Machado, 54, 65042-240, 3430.16
+10011, Nicolas Machado, 31, 72872-385, 274.28
+10055, Carlos Vargas, 51, 83305-500, 3151.88
+10097, Antônio Paim, 55, 49072-600, 3464.97
+10100, Antônio Lopes, 41, 72872-385, 1742.87
+10131, Rafael Correia, 27, 83221-160, 1882.92
+10135, Adriano Pacheco Pedroso, 48, 65042-240, 1762.66
+10140, Carina Pacheco, 22, 65042-240, 1990.57
+10154, Janaína Pedroso, 48, 36081-770, 3155.98
+10184, Elaine Medeiros Vaz, 23, 49072-600, 3618.2
+10208, Beatriz Oliveira, 29, 64211-140, 1369.88
+10215, Isabela Ruiz, 47, 72901-718, 4823.18
+10225, Fernando Monteiro, 27, 83305-500, 4542.33
+10273, Gilmar Monteiro, 27, 68371-360, 488.67
+10311, Fabiana Fraga, 59, 44044-257, 1883.94
+10360, Gilmar Braz da Cruz, 53, 64211-140, 2520.98
+10383, Antônio Quadros Vaz, 48, 72872-385, 3984.38
+10408, Heloísa Ruiz, 56, 68371-360, 1001.79
+10439, Poliane Carmo, 24, 36081-770, 4691.94
+10481, Heloísa Damasceno, 40, 64211-140, 245.32
+10513, Fabiana Leal, 37, 83221-160, 3475.97
+10526, Elaine Farias da Cruz, 38, 49072-600, 208.11
+10533, Isabela Silveira Correia, 59, 83221-160, 3771.47
+10543, Nicole Vargas Farias, 19, 50900-230, 37.69
+10576, Fernando Farias Ito, 19, 36081-770, 4620.88
+10599, Janaína Silveira Gimenes, 52, 83305-500, 2770.03
+10646, Nicole da Cruz Vargas, 58, 83221-160, 3064.38
+10671, Taís Machado Damasceno, 24, 77415-862, 50.17
+10683, Carlos Carmo Quadros, 48, 44044-257, 2978.88
+10696, Heloísa Paschoal Barroso, 37, 65042-240, 3093.9
+10736, Rafael Paim, 21, 54786-220, 3873.75
+10782, Fabiana Simões Lopes, 22, 83305-500, 4412.42
+10787, Carina de Salles, 21, 72872-385, 1565.45
+10826, Carina Paschoal da Cunha, 54, 68371-360, 4549.06
+10834, Nicolas da Cunha Damasceno, 50, 50900-230, 3982.19
+10852, Isabela Paschoal Pedroso, 41, 50900-230, 542.75
+10858, Beatriz Correia Oliveira, 23, 83305-500, 2777.08
+10861, Nicolas Leal, 26, 77415-862, 2652.34
+10873, Adriano Lobo Vargas, 38, 83221-160, 468.64
+10910, Émerson Arruda Ruiz, 18, 83305-500, 950.99
+10916, Poliane Fraga, 46, 68371-360, 2467.02
+10963, Taís Carmo, 39, 68371-360, 235.82
+10981, Antônio de Salles, 52, 49072-600, 4662.51
+10997, Janaína de Salles Farias, 47, 49072-600, 3823.64
+11040, Émerson Fraga, 56, 68371-360, 2085.34
+11049, Fabiana da Cunha, 34, 50900-230, 1049.6
+11064, Antônio Falcão, 29, 54786-220, 3063.02
+11109, Isabela Gimenes Medeiros, 57, 50900-230, 100.72
+11136, Janaína Gimenes, 26, 72901-718, 3879.2
+11176, Antônio Gimenes, 50, 36081-770, 60.92
+11191, Gilmar Simões, 36, 83221-160, 1990.29
+11236, Rafael Braga Gimenes, 53, 44044-257, 1287.25
+11248, Poliane Pacheco, 30, 49072-600, 3034.94
+11271, Fernando Ito Assis, 32, 91360-160, 3333.79
+11313, Fabiana Braga, 43, 83305-500, 4418.7
+11355, Antônio Monteiro Medeiros, 47, 91360-160, 4608.13
+11400, Gilmar Machado Lima, 37, 72872-385, 1752.83
+11424, Adriano Simões Medeiros, 54, 68371-360, 2109.67
+11444, Nicolas Cavalcanti, 46, 36081-770, 2502.09
+11458, Gilmar Quadros Correia, 33, 83221-160, 3811.05
+11460, Carina Monteiro, 54, 64211-140, 1155.8
+11491, Janaína Vaz, 52, 91360-160, 2804.4
+11516, Beatriz Assis, 39, 65042-240, 2003.54
+11558, Valdomiro Oliveira Oliveira, 50, 77415-862, 408.31
+11599, Elaine Vargas Quadros, 39, 68371-360, 33.93
+11633, Elaine Cavalcanti, 57, 91360-160, 2926.89
+11637, Isabela Assis Medeiros, 24, 49072-600, 2271.14
+11647, Adriano Leal Arruda, 31, 49072-600, 1567.27
+11687, Carina Cavalcanti Paim, 51, 68371-360, 4613.8
+11732, Adriano da Cunha, 40, 54786-220, 1702.81
+11778, Nicolas Lobo, 57, 44044-257, 4190.81
+11808, Kléber Farias, 51, 54786-220, 2316.17
+11812, Fabiana Ruiz, 40, 65042-240, 4569.69
+11845, Isabela Lopes de Salles, 38, 64211-140, 1462.22
+11892, Heloísa Leal Machado, 48, 44044-257, 4374.41
+11919, Fabiana Simões da Cruz, 33, 50900-230, 1987.97
+11949, Kléber Quadros, 52, 83221-160, 3961.43
+11994, Antônio Assis, 32, 72901-718, 1030.33
+12004, Adriano Pacheco Lopes, 21, 54786-220, 333.76
+12047, Rafael Damasceno, 50, 50900-230, 1992.58
+12062, Janaína Lopes Ruiz, 40, 72901-718, 617.68
+12076, Poliane Farias Gimenes, 39, 68371-360, 3474.21
+12092, Gilmar Oliveira Cavalcanti, 35, 49072-600, 2769.56
+12103, Poliane Vargas Correia, 59, 36081-770, 3733.88
+12137, Janaína Falcão, 31, 91360-160, 2020.28
+12177, Rafael Braga, 53, 36081-770, 511.76
+12225, Nicole Farias Vaz, 48, 91360-160, 4969.1
+12232, Gilmar Correia, 53, 54786-220, 691.76
+12241, Poliane Machado Assis, 25, 65042-240, 929.56
+12270, Nicolas Braz, 21, 77415-862, 4591.4
+12292, Adriano Machado, 36, 36081-770, 1067.53
+12330, Fabiana Gimenes Medeiros, 29, 77415-862, 2369.27
+12371, Rafael Pacheco da Cunha, 41, 72872-385, 2874.21
+12413, Beatriz da Silva Ruiz, 22, 54786-220, 4553.24
+12435, Rafael Pedroso Silveira, 47, 54786-220, 3431.45
+12442, Beatriz Quadros Vaz, 37, 68371-360, 2999.59
+12472, Carina Oliveira Paim, 23, 44044-257, 510.57
+12518, Kléber de Salles, 29, 91360-160, 1334.36
+12557, Fernando Barroso, 37, 65042-240, 3067.66
+12584, Gilmar Assis da Cruz, 19, 50900-230, 581.56
+12611, Elaine Fraga, 38, 50900-230, 226.88
+12654, Janaína Assis Correia, 53, 54786-220, 4721.08
+12693, Nicolas Farias, 32, 77415-862, 4742.47
+12704, Beatriz Gimenes Falcão, 22, 72901-718, 4043.15
+12732, Taís Ruiz, 24, 49072-600, 1856.61
+12759, Beatriz Cavalcanti, 55, 64211-140, 3079.65
+12798, Fernando Machado Pacheco, 41, 91360-160, 1013.22
+12799, Janaína Monteiro Oliveira, 25, 72901-718, 1079.7
+12840, Janaína Gimenes Gimenes, 30, 54786-220, 35.28
+12885, Carlos Damasceno, 40, 44044-257, 2502.19
+12921, Valdomiro Assis, 48, 49072-600, 4086.27
+12943, Isabela Fraga, 34, 65042-240, 757.65
+12971, Nicolas Ito, 36, 65042-240, 408.54
+13015, Valdomiro Ito de Salles, 25, 83221-160, 4760.95
+13034, Kléber Gimenes da Cruz, 19, 50900-230, 3061.23
+13053, Gilmar Arruda Velho, 54, 83221-160, 194.54
+13098, Nicolas Braz Braz, 26, 54786-220, 3071.36
+13138, Gilmar Quadros, 30, 54786-220, 887.45
+13141, Rafael da Cruz, 24, 54786-220, 612.0
+13152, Kléber Lobo, 42, 65042-240, 1855.89
+13192, Isabela Gimenes Machado, 59, 77415-862, 2963.37
+13240, Nicolas Barroso da Cunha, 41, 44044-257, 3990.56
+13264, Poliane Braga Paschoal, 24, 64211-140, 3335.49
+13297, Carina Monteiro, 22, 64211-140, 2265.6
+13340, Rafael Lobo, 27, 65042-240, 713.14
+13383, Isabela Fraga, 29, 83221-160, 4206.04
+13415, Taís Nazário, 41, 44044-257, 3597.38
+13433, Heloísa Braz, 27, 91360-160, 537.43
+13435, Nicole Braz Simões, 37, 65042-240, 4478.58
+13483, Adriano Machado, 42, 49072-600, 4812.78
+13508, Adriano Arruda, 59, 54786-220, 4486.17
+13535, Fernando Barroso Vargas, 45, 72901-718, 2447.32
+13554, Fernando Silveira, 47, 36081-770, 2680.77
+13597, Heloísa Simões, 51, 83221-160, 3522.7
+13624, Adriano da Silva Arruda, 41, 83221-160, 1696.08
+13641, Isabela Damasceno, 31, 65042-240, 3571.59
+13679, Antônio da Silva, 51, 72901-718, 4949.15
+13710, Isabela Gimenes Lima, 50, 72872-385, 1017.47
+13719, Fabiana Fraga, 46, 68371-360, 2900.66
+13743, Antônio Vargas, 50, 68371-360, 3838.7
+13779, Nicole Oliveira, 20, 44044-257, 2131.59
+13828, Beatriz Leal, 36, 54786-220, 4305.41
+13843, Fabiana Barroso, 24, 36081-770, 423.87
+13853, Carlos Vaz, 34, 49072-600, 4004.3
+13861, Fernando Machado, 53, 77415-862, 1703.61
+13885, Antônio Braga, 57, 83305-500, 605.63
+13890, Isabela Lobo Correia, 52, 36081-770, 4537.35
+13914, Isabela Gimenes Ruiz, 22, 49072-600, 4250.34
+13960, Carlos Gimenes, 27, 68371-360, 3097.48
+13969, Carlos Braga Farias, 23, 36081-770, 3449.31
+14010, Valdomiro Monteiro, 22, 68371-360, 2450.09
+14012, Beatriz Ito, 45, 49072-600, 4996.68
+14020, Beatriz Correia, 47, 65042-240, 3667.33
+14069, Isabela Arruda, 53, 68371-360, 4255.57
+14116, Isabela Simões, 32, 77415-862, 610.16
+14164, Nicolas Velho Farias, 42, 91360-160, 3600.28
+14168, Fabiana Barroso, 43, 49072-600, 4100.19
+14217, Kléber Quadros, 39, 77415-862, 909.92
+14264, Fabiana Vargas, 27, 50900-230, 4022.45
+14282, Poliane Paim Pedroso, 20, 72901-718, 2710.21
+14327, Elaine Braga, 53, 77415-862, 4221.7
+14330, Émerson Lima, 45, 72872-385, 3334.62
+14338, Gilmar Correia da Silva, 39, 83221-160, 4267.3
+14377, Beatriz Correia, 31, 36081-770, 3231.0
+14423, Janaína Silveira, 51, 83221-160, 2128.7
+14463, Elaine da Cruz, 33, 91360-160, 2588.3
+14474, Adriano Braga, 32, 83221-160, 1694.93
+14484, Janaína Lopes Oliveira, 29, 64211-140, 4118.99
+14520, Kléber Braga Paim, 47, 54786-220, 2519.42
+14565, Carina Barroso, 44, 91360-160, 1894.17
+14592, Nicole Vaz, 26, 83305-500, 1455.98
+14599, Antônio Silveira, 29, 50900-230, 3701.72
+14613, Kléber Correia da Cunha, 58, 83221-160, 2620.73
+14631, Heloísa Arruda, 29, 54786-220, 3542.47
+14676, Nicole Silveira, 30, 72872-385, 1118.49
+14712, Heloísa de Salles, 59, 72872-385, 3082.38
+14747, Nicolas Paim Leal, 44, 83305-500, 3567.58
+14780, Valdomiro Lobo Machado, 42, 36081-770, 3689.76
+14815, Carlos Simões, 27, 65042-240, 1586.38
+14836, Taís Cavalcanti Barroso, 19, 77415-862, 803.49
+14841, Nicole Gimenes Barroso, 32, 83305-500, 1657.25
+14851, Valdomiro Monteiro, 33, 44044-257, 2190.51
+14888, Nicole Paschoal, 53, 64211-140, 3978.88
+14891, Nicolas Lima Lima, 26, 36081-770, 1652.94
+14906, Kléber Vaz, 53, 36081-770, 1073.47
+14919, Carlos Lobo, 29, 49072-600, 869.57
+14956, Isabela Fraga, 23, 83305-500, 81.36
+14965, Émerson Vaz, 25, 65042-240, 4440.49
+14979, Gilmar Correia Damasceno, 59, 36081-770, 2982.1
+15002, Elaine Vargas, 47, 50900-230, 2784.35
+15014, Émerson da Silva Pedroso, 34, 83305-500, 4221.48
+15049, Nicolas Machado, 21, 54786-220, 2221.41
+15094, Taís Gimenes Braga, 41, 83305-500, 4776.56
+15100, Janaína Simões, 60, 83305-500, 3793.19
+15146, Rafael Ito, 38, 49072-600, 219.43
+15188, Valdomiro Carmo, 18, 72901-718, 4819.1
+15193, Elaine Lopes, 40, 50900-230, 3336.27
+15218, Taís Machado, 33, 44044-257, 3063.36
+15229, Antônio Monteiro Damasceno, 51, 49072-600, 3863.17
+15260, Nicole Falcão, 18, 91360-160, 4248.99
+15293, Isabela Correia, 40, 83221-160, 1695.23
+15297, Antônio Ito, 22, 77415-862, 1674.39
+15314, Valdomiro Lopes Damasceno, 58, 91360-160, 1409.65
+15361, Carlos Vaz Machado, 58, 68371-360, 4856.68
+15406, Taís Machado Machado, 52, 91360-160, 4690.32
+15438, Carina Vargas, 36, 64211-140, 3123.9
+15485, Elaine Lopes, 20, 91360-160, 4847.7
+15524, Émerson Lima, 58, 83221-160, 2902.41
+15552, Beatriz Machado, 41, 83221-160, 2945.6
+15565, Nicolas Braga Correia, 44, 65042-240, 1718.39
+15603, Rafael Farias Vargas, 24, 72872-385, 2793.87
+15625, Nicole Velho Barroso, 18, 68371-360, 2173.27
+15640, Poliane Oliveira da Cruz, 26, 72901-718, 3920.73
+15688, Taís Silveira, 28, 72901-718, 106.99
+15725, Adriano Lima Gimenes, 19, 83221-160, 1532.56
+15744, Taís da Cunha Farias, 54, 64211-140, 3021.08
+15762, Elaine Paschoal, 20, 91360-160, 994.1
+15796, Elaine Paschoal Gimenes, 32, 54786-220, 1136.37
+15835, Kléber Gimenes, 30, 44044-257, 4480.34
+15870, Beatriz Correia, 48, 65042-240, 528.64
+15881, Nicolas Vaz Braga, 28, 64211-140, 3556.96
+15925, Kléber Braz Falcão, 45, 83305-500, 3337.71
+15951, Gilmar Medeiros Damasceno, 39, 49072-600, 2339.73
+15978, Gilmar Quadros, 50, 64211-140, 341.95
+16015, Nicolas Cavalcanti, 26, 44044-257, 4922.6
+16043, Valdomiro Quadros Paim, 46, 77415-862, 853.13
+16060, Carlos Quadros, 30, 91360-160, 2614.97
+16109, Carlos Lopes Lima, 33, 83221-160, 1131.13
+16141, Valdomiro Arruda Assis, 41, 91360-160, 3047.91
+16190, Carlos da Cruz Lopes, 42, 72901-718, 3474.22
+16197, Émerson Ito, 45, 72901-718, 1351.31
+16217, Antônio de Salles Farias, 52, 44044-257, 3302.0
+16249, Gilmar Correia Damasceno, 40, 49072-600, 21.97
+16251, Taís Ruiz Leal, 27, 64211-140, 4768.2
+16257, Heloísa Medeiros, 30, 64211-140, 1464.94
+16279, Poliane Ito Fraga, 45, 91360-160, 1845.48
+16303, Taís da Cruz, 50, 72901-718, 1252.2
+16312, Valdomiro Braz, 24, 64211-140, 2064.32
+16339, Rafael Medeiros, 40, 65042-240, 2675.92
+16375, Antônio Arruda Vaz, 59, 91360-160, 2992.14
+16403, Rafael Monteiro, 57, 44044-257, 1102.91
+16420, Elaine Gimenes de Salles, 48, 72901-718, 163.41
+16459, Isabela Fraga, 31, 50900-230, 4541.12
+16466, Émerson Monteiro Machado, 42, 49072-600, 63.44
+16478, Valdomiro da Cunha Lobo, 37, 65042-240, 1819.38
+16487, Adriano Braga Carmo, 41, 65042-240, 1097.0
+16535, Heloísa Lopes Ito, 21, 36081-770, 4573.65
+16571, Poliane Pacheco Farias, 39, 54786-220, 3111.74
+16600, Émerson da Cruz, 29, 64211-140, 614.98
+16633, Fernando da Cunha Correia, 48, 49072-600, 3517.82
+16649, Taís Oliveira, 44, 72901-718, 4060.79
+16691, Janaína Monteiro, 49, 65042-240, 1824.23
+16692, Kléber Ito, 25, 49072-600, 2031.77
+16717, Adriano Paim Leal, 18, 68371-360, 3420.25
+16748, Fernando Lopes, 43, 83221-160, 2596.94
+16779, Heloísa Correia, 19, 72872-385, 4595.85
+16802, Taís da Silva, 44, 49072-600, 4811.3
+16809, Carlos Cavalcanti, 40, 49072-600, 1712.1
+16827, Taís Medeiros da Silva, 24, 65042-240, 2298.28
+16862, Émerson Nazário Silveira, 60, 72872-385, 2567.46
+16883, Fabiana Monteiro, 30, 54786-220, 690.04
+16925, Gilmar Assis, 49, 49072-600, 1470.68
+16931, Carina Vaz, 48, 64211-140, 3920.77
+16965, Valdomiro Silveira, 28, 77415-862, 4977.94
+17008, Antônio da Silva, 60, 49072-600, 2379.95
+17010, Isabela Machado Vargas, 21, 36081-770, 1685.61
+17051, Gilmar Farias, 57, 54786-220, 4560.71
+17069, Kléber Paim, 56, 68371-360, 4161.61
+17082, Kléber Paschoal Paim, 33, 72872-385, 3251.19
+17094, Poliane da Cunha, 23, 72872-385, 2163.49
+17112, Kléber Pacheco da Silva, 52, 83221-160, 562.1
+17157, Elaine Lima Ruiz, 42, 91360-160, 2367.27
+17172, Elaine Gimenes, 42, 72872-385, 3605.57
+17189, Poliane Vaz Lobo, 57, 83221-160, 4764.87
+17203, Nicole Ruiz Simões, 59, 36081-770, 1380.36
+17236, Émerson Cavalcanti Braga, 29, 65042-240, 1821.09
+17267, Carlos Vaz Braga, 21, 44044-257, 1469.84
+17279, Poliane Machado Monteiro, 40, 54786-220, 1390.38
+17299, Valdomiro Lima, 55, 49072-600, 4839.72
+17337, Isabela Carmo, 27, 36081-770, 1020.7
+17368, Fernando Oliveira, 21, 36081-770, 2856.59
+17372, Valdomiro Vargas, 21, 72901-718, 4710.65
+17404, Carlos Ruiz Gimenes, 46, 68371-360, 1355.33
+17447, Adriano Vaz, 56, 49072-600, 3149.11
+17452, Taís Arruda Lobo, 47, 50900-230, 1561.84
+17456, Rafael Nazário Paschoal, 31, 54786-220, 2320.46
+17484, Fernando Machado Correia, 25, 68371-360, 1441.1
+17487, Nicolas Assis Fraga, 49, 50900-230, 223.86
+17492, Valdomiro Leal Pacheco, 26, 54786-220, 545.91
+17503, Carina Gimenes Farias, 28, 65042-240, 2081.64
+17548, Nicole Falcão, 41, 72901-718, 4280.68
+17567, Janaína Falcão, 56, 83305-500, 2165.49
+17615, Carlos da Cunha Ito, 38, 54786-220, 2706.12
+17628, Heloísa Lobo Machado, 39, 64211-140, 4795.15
+17657, Fabiana da Cunha Paim, 49, 91360-160, 2707.6
+17668, Fabiana Vargas, 32, 72901-718, 4406.69
+17693, Émerson Vargas Lobo, 38, 36081-770, 4731.98
+17697, Taís Nazário Machado, 20, 83221-160, 311.43
+17728, Carlos Carmo Pacheco, 57, 91360-160, 3769.09
+17728, Antônio de Salles, 24, 54786-220, 3708.13
+17737, Carina Medeiros de Salles, 52, 77415-862, 396.15
+17753, Valdomiro Oliveira, 32, 72872-385, 2284.43
+17794, Heloísa Carmo Barroso, 18, 64211-140, 4010.29
+17804, Taís Machado da Cunha, 32, 91360-160, 4013.7
+17804, Fernando Damasceno Braz, 20, 50900-230, 2853.41
+17817, Heloísa Machado da Cunha, 56, 91360-160, 744.54
+17826, Rafael Ruiz, 47, 91360-160, 1392.27
+17843, Valdomiro Braga, 22, 49072-600, 884.0
+17851, Heloísa Braga Leal, 33, 91360-160, 4618.42
+17853, Poliane Vaz, 48, 68371-360, 669.21
+17862, Elaine da Cunha, 34, 72901-718, 2094.09
+17868, Émerson da Cruz, 21, 83305-500, 2120.12
+17915, Nicole Monteiro Farias, 47, 72901-718, 2651.78
+17931, Rafael Damasceno, 23, 68371-360, 638.87
+17945, Taís Assis, 18, 72901-718, 2438.84
+17963, Isabela Carmo Lima, 35, 49072-600, 4960.29
+17976, Elaine Fraga de Salles, 26, 36081-770, 2414.38
+18018, Janaína Nazário Arruda, 21, 64211-140, 936.6
+18036, Valdomiro Paim, 54, 91360-160, 4943.67
+18050, Nicolas Damasceno Machado, 40, 44044-257, 832.23
+18059, Elaine Quadros, 41, 91360-160, 2921.73
+18072, Nicole Simões, 55, 83221-160, 3496.29
+18079, Antônio Silveira, 29, 44044-257, 2339.74
+18082, Émerson da Silva Monteiro, 53, 83221-160, 3432.92
+18099, Isabela Quadros Assis, 26, 54786-220, 991.26
+18142, Rafael Pacheco, 42, 91360-160, 186.72
+18167, Antônio Lima Nazário, 35, 77415-862, 1435.6
+18191, Beatriz Pedroso, 20, 83305-500, 4453.91
+18234, Carlos Farias, 35, 49072-600, 4939.29
+18271, Valdomiro Farias Lobo, 31, 83221-160, 2054.74
+18293, Valdomiro Ito Simões, 36, 65042-240, 2312.24
+18324, Valdomiro Vaz, 38, 83221-160, 4980.42
+18352, Beatriz da Cunha Ruiz, 33, 77415-862, 1330.1
+18354, Elaine Monteiro, 27, 72872-385, 2580.52
+18389, Fabiana Machado, 44, 54786-220, 4838.61
+18410, Fernando Lopes Fraga, 29, 83305-500, 3149.25
+18430, Fabiana de Salles Nazário, 35, 65042-240, 1513.48
+18478, Elaine Monteiro, 57, 83305-500, 580.11
+18480, Janaína da Cruz Fraga, 51, 77415-862, 2484.58
+18508, Carlos Nazário Oliveira, 54, 65042-240, 2620.53
+18551, Heloísa Correia Gimenes, 50, 36081-770, 3898.8
+18571, Nicolas Lima, 51, 50900-230, 2695.28
+18592, Gilmar Falcão, 55, 36081-770, 2756.79
+18614, Fernando Arruda, 53, 91360-160, 2509.43
+18647, Nicolas Lima Velho, 39, 68371-360, 3923.69
+18677, Beatriz Damasceno Barroso, 35, 50900-230, 3888.68
+18713, Fernando de Salles Vaz, 41, 49072-600, 3011.48
+18740, Taís Lobo, 48, 91360-160, 528.91
+18768, Carina Ito, 51, 44044-257, 4868.53
+18803, Fabiana Monteiro Vargas, 45, 83221-160, 1246.14
+18834, Fabiana Falcão, 29, 44044-257, 787.47
+18874, Fernando Machado, 47, 54786-220, 1766.84
+18895, Valdomiro Braz, 50, 50900-230, 2053.41
+18943, Beatriz Gimenes Arruda, 33, 83221-160, 3046.63
+18949, Adriano Pacheco, 21, 65042-240, 1397.19
+18974, Poliane Fraga Vaz, 52, 44044-257, 2109.5
+18978, Beatriz da Cruz de Salles, 36, 68371-360, 1069.99
+18997, Isabela Braga, 51, 72872-385, 1448.7
+19030, Taís Correia Leal, 23, 68371-360, 1531.1
+19042, Heloísa Arruda Lopes, 22, 50900-230, 4777.53
+19068, Émerson Pacheco Braga, 27, 72901-718, 2676.44
+19117, Elaine Gimenes, 30, 49072-600, 2928.57
+19160, Elaine Arruda, 52, 36081-770, 3901.39
+19208, Nicole Barroso Assis, 60, 64211-140, 1173.51
+19244, Adriano Vargas Paschoal, 39, 50900-230, 3030.11
+19289, Rafael Medeiros Oliveira, 26, 91360-160, 747.01
+19292, Gilmar Medeiros de Salles, 20, 68371-360, 2784.87
+19316, Nicolas da Silva, 44, 68371-360, 3746.1
+19320, Kléber da Silva Leal, 48, 44044-257, 624.98
+19354, Kléber Lopes Silveira, 29, 68371-360, 1772.62
+19389, Beatriz Fraga da Cunha, 20, 83221-160, 3428.6
+19410, Poliane Damasceno Quadros, 57, 44044-257, 4990.0
+19412, Rafael Medeiros, 47, 54786-220, 1155.53
+19433, Émerson Machado Damasceno, 21, 44044-257, 3898.61
+19469, Taís Correia Vaz, 53, 44044-257, 474.33
+19514, Gilmar Cavalcanti Ruiz, 49, 50900-230, 4318.12
+19533, Gilmar Ruiz Machado, 32, 65042-240, 3619.49
+19580, Nicolas Gimenes, 38, 64211-140, 2082.58
+19608, Rafael Farias Paschoal, 36, 72872-385, 495.7
+19619, Nicolas Monteiro, 55, 83305-500, 2433.26
+19644, Kléber Velho Oliveira, 36, 83305-500, 1667.29
+19690, Valdomiro Simões Ruiz, 22, 36081-770, 3517.35
+19733, Adriano Oliveira, 36, 72872-385, 2921.49
+19748, Gilmar Pedroso, 59, 49072-600, 836.56
+19755, Nicole Braz, 22, 64211-140, 2033.41
+19797, Valdomiro Velho, 50, 65042-240, 3936.73
+19803, Émerson Nazário Cavalcanti, 57, 91360-160, 2946.32
+19835, Elaine Ruiz Lopes, 46, 65042-240, 2683.11
+19858, Gilmar Vaz Machado, 42, 44044-257, 2099.06
+19893, Fabiana Braga, 45, 72901-718, 4125.84
+19939, Carlos Quadros, 19, 64211-140, 208.16
+19973, Fernando Lobo Barroso, 34, 65042-240, 4912.7
+19982, Fernando Correia da Cunha, 57, 64211-140, 699.57
+20000, Nicole Medeiros Arruda, 60, 68371-360, 472.44
+20001, Isabela da Silva Cavalcanti, 57, 36081-770, 3237.9
+20037, Fabiana Gimenes Medeiros, 38, 77415-862, 3678.71
+20055, Carina Pacheco Simões, 55, 36081-770, 2558.56
+20078, Kléber da Cunha Arruda, 52, 77415-862, 1320.01
+20111, Kléber Ruiz, 35, 54786-220, 2803.21
+20139, Antônio da Cruz da Cunha, 49, 77415-862, 2036.74
+20144, Rafael Monteiro Simões, 59, 36081-770, 4923.72
+20174, Gilmar Paschoal, 45, 72901-718, 985.46
+20203, Kléber Falcão, 58, 91360-160, 4995.02
+20222, Janaína Quadros, 53, 44044-257, 1401.8
+20240, Janaína Correia, 41, 77415-862, 3237.15
+20248, Isabela Vaz, 46, 83305-500, 3797.63
+20288, Elaine Machado, 57, 72872-385, 3828.6
+20308, Émerson Lopes Lobo, 30, 44044-257, 1072.36
+20357, Adriano Braz Lobo, 29, 49072-600, 4104.14
+20370, Poliane Velho da Cunha, 44, 77415-862, 4438.86
+20382, Beatriz Correia, 29, 36081-770, 4424.0
+20383, Antônio Pacheco, 23, 64211-140, 1586.07
+20396, Heloísa da Cunha Braz, 40, 44044-257, 727.39
+20443, Poliane Farias, 57, 77415-862, 3758.27
+20443, Carina Paim, 59, 44044-257, 1339.47
+20472, Elaine Silveira, 51, 91360-160, 2034.97
+20511, Fernando Oliveira Lopes, 30, 72901-718, 3435.45
+20556, Fernando Ruiz Arruda, 24, 72872-385, 2265.97
+20599, Taís Pacheco, 32, 65042-240, 3996.87
+20647, Poliane Ruiz, 21, 64211-140, 2806.29
+20668, Poliane Fraga da Cunha, 45, 83221-160, 3245.06
+20701, Kléber Barroso, 42, 77415-862, 1913.99
+20702, Carina Correia, 34, 50900-230, 4119.72
+20723, Elaine da Cunha Paim, 58, 83305-500, 2814.26
+20772, Carina Simões, 57, 64211-140, 3659.49
+20811, Rafael Lopes, 46, 65042-240, 4736.56
+20850, Elaine Carmo, 30, 72872-385, 1682.68
+20888, Janaína Damasceno, 33, 64211-140, 1786.14
+20928, Carlos Quadros Leal, 25, 83221-160, 3838.84
+20950, Nicole da Cruz Vargas, 18, 91360-160, 2384.93
+20991, Fabiana Machado Gimenes, 31, 65042-240, 2181.78
+20995, Carlos da Silva da Cunha, 53, 72901-718, 723.4
+21028, Fernando Monteiro, 60, 50900-230, 3198.12
+21046, Kléber Monteiro, 43, 83221-160, 1236.52
+21072, Elaine Damasceno Oliveira, 41, 54786-220, 982.89
+21081, Kléber Monteiro, 51, 83305-500, 4757.72
+21126, Isabela Simões, 35, 49072-600, 1801.83
+21163, Nicole Velho, 47, 54786-220, 1796.32
+21181, Beatriz Simões, 26, 65042-240, 3429.24
+21216, Nicolas Monteiro Arruda, 32, 64211-140, 477.26
+21242, Beatriz Medeiros, 22, 72901-718, 2736.91
+21243, Nicolas Lopes, 27, 72872-385, 1341.66
+21256, Fabiana Velho Velho, 43, 83221-160, 4889.05
+21266, Carlos Simões Vaz, 35, 65042-240, 4773.56
+21268, Rafael Paim, 57, 49072-600, 4813.43
+21281, Elaine da Cruz, 31, 36081-770, 273.38
+21301, Gilmar da Silva de Salles, 31, 54786-220, 507.82
+21333, Carlos Cavalcanti, 50, 50900-230, 3838.8
+21368, Gilmar Nazário Gimenes, 46, 72901-718, 4004.9
+21398, Elaine Fraga Nazário, 37, 83221-160, 484.97
+21416, Rafael Lopes Pedroso, 42, 72901-718, 232.43
+21463, Heloísa Barroso da Cruz, 40, 50900-230, 3904.0
+21500, Taís Silveira Carmo, 20, 44044-257, 3646.85
+21502, Antônio Ruiz Fraga, 24, 50900-230, 2917.48
+21540, Carlos Pedroso Medeiros, 24, 36081-770, 3273.27
+21564, Heloísa Lobo Ito, 33, 68371-360, 1316.39
+21584, Isabela Vaz Assis, 56, 50900-230, 4095.23
+21599, Gilmar Barroso, 55, 91360-160, 2963.01
+21640, Elaine Lima, 20, 77415-862, 3557.78
+21689, Carlos Ito, 48, 68371-360, 424.26
+21723, Isabela Medeiros, 56, 44044-257, 275.34
+21748, Valdomiro Vargas, 34, 64211-140, 3521.19
+21793, Poliane Lobo, 52, 44044-257, 2411.04
+21815, Gilmar Cavalcanti Lima, 18, 68371-360, 1759.63
+21821, Antônio Velho Ito, 39, 50900-230, 153.05
+21830, Fernando Paschoal Lopes, 21, 83221-160, 972.4
+21866, Nicole da Silva da Silva, 25, 44044-257, 3595.9
+21879, Gilmar Machado, 30, 83305-500, 4948.99
+21888, Carina Vaz Monteiro, 50, 68371-360, 3226.06
+21927, Nicolas Simões Arruda, 33, 36081-770, 1051.61
+21942, Isabela Pacheco, 23, 65042-240, 4352.13
+21979, Kléber Paschoal, 46, 65042-240, 2747.9
+21990, Janaína Velho, 55, 83305-500, 1653.16
+22009, Poliane da Cunha da Silva, 51, 68371-360, 2040.94
+22018, Émerson Correia, 29, 77415-862, 134.45
+22036, Nicole Cavalcanti Fraga, 29, 64211-140, 3594.13
+22043, Kléber Silveira Gimenes, 33, 68371-360, 1000.32
+22044, Valdomiro Correia Ruiz, 26, 49072-600, 2725.58
+22063, Isabela Falcão Paim, 52, 44044-257, 4915.65
+22087, Rafael da Cunha, 59, 36081-770, 1415.33
+22096, Carina Pacheco Pacheco, 46, 36081-770, 1875.12
+22129, Antônio Nazário, 40, 91360-160, 2795.9
+22154, Heloísa Simões Lobo, 28, 83221-160, 660.33
+22201, Beatriz Vargas Machado, 35, 83221-160, 2846.95
+22201, Valdomiro Gimenes Oliveira, 49, 68371-360, 1036.79
+22212, Poliane Velho, 42, 50900-230, 3237.84
+22253, Elaine Gimenes Cavalcanti, 44, 91360-160, 2132.11
+22265, Beatriz da Cruz Fraga, 47, 83221-160, 795.6
+22313, Nicolas Damasceno da Cunha, 37, 44044-257, 2252.33
+22321, Elaine Silveira Pacheco, 18, 77415-862, 2260.0
+22329, Poliane Medeiros Silveira, 23, 83305-500, 3821.13
+22346, Rafael Oliveira, 34, 49072-600, 943.84
+22385, Fabiana Farias Oliveira, 37, 65042-240, 2874.74
+22404, Poliane Arruda, 50, 64211-140, 3735.82
+22429, Fernando Quadros Ito, 54, 54786-220, 1058.81
+22461, Adriano Velho Barroso, 39, 65042-240, 1261.7
+22490, Beatriz Nazário Velho, 44, 49072-600, 4792.0
+22525, Gilmar Paschoal Lobo, 40, 77415-862, 4807.65
+22569, Isabela Braz, 23, 83305-500, 2040.96
+22613, Adriano da Silva Silveira, 51, 83305-500, 4799.33
+22644, Taís Vaz, 47, 83221-160, 3941.88
+22664, Valdomiro Falcão Barroso, 59, 83221-160, 4268.34
+22695, Janaína Velho, 43, 50900-230, 4236.38
+22717, Valdomiro Damasceno Lopes, 21, 72872-385, 238.54
+22756, Nicolas Velho Correia, 39, 68371-360, 803.75
+22766, Janaína Leal, 44, 54786-220, 1452.24
+22788, Carina Farias da Cruz, 33, 77415-862, 1578.87
+22810, Poliane Quadros, 37, 72901-718, 3981.78
+22829, Rafael Cavalcanti, 26, 54786-220, 2077.1
+22833, Adriano Quadros Medeiros, 27, 44044-257, 513.86
+22848, Fabiana Machado de Salles, 23, 72872-385, 2543.75
+22855, Elaine Vargas Assis, 20, 91360-160, 514.83
+22894, Émerson Paschoal, 41, 49072-600, 2473.41
+22932, Janaína Falcão, 33, 64211-140, 2465.3
+22960, Taís Oliveira, 46, 77415-862, 1788.8
+23003, Janaína da Silva, 31, 83305-500, 4270.42
+23009, Kléber Ito, 33, 54786-220, 4298.53
+23045, Valdomiro Silveira Correia, 55, 36081-770, 1392.12
+23079, Nicolas Cavalcanti, 47, 83305-500, 1934.55
+23099, Taís Arruda Carmo, 60, 72872-385, 3106.47
+23129, Carlos Paschoal, 50, 50900-230, 3995.75
+23152, Gilmar Machado, 49, 65042-240, 501.08
+23199, Gilmar da Cunha da Cruz, 56, 49072-600, 2893.45
+23242, Nicolas Damasceno, 50, 54786-220, 1933.79
+23261, Fernando da Silva Silveira, 47, 49072-600, 1656.76
+23271, Adriano Monteiro, 33, 65042-240, 3197.03
+23313, Janaína Barroso, 55, 44044-257, 2612.23
+23340, Janaína Nazário Cavalcanti, 52, 91360-160, 3168.74
+23356, Adriano Lopes, 42, 54786-220, 4124.68
+23378, Kléber Braz Quadros, 43, 68371-360, 331.08
+23412, Beatriz Leal, 24, 68371-360, 4478.37
+23416, Isabela Gimenes Lima, 21, 54786-220, 3372.52
+23416, Nicolas Carmo, 27, 72901-718, 1559.06
+23446, Rafael Damasceno Quadros, 23, 72872-385, 3331.16
+23466, Adriano Cavalcanti Barroso, 46, 83305-500, 2229.71
+23492, Beatriz da Silva Leal, 58, 83305-500, 1655.98
+23504, Fernando Arruda, 60, 77415-862, 2378.53
+23512, Heloísa Falcão, 39, 91360-160, 623.8
+23555, Taís Paschoal Carmo, 55, 49072-600, 2908.1
+23581, Valdomiro Damasceno da Cruz, 41, 72872-385, 4341.8
+23624, Elaine Velho Paim, 50, 72901-718, 1172.73
+23659, Kléber Paschoal Lobo, 49, 83305-500, 1156.71
+23683, Taís da Silva Farias, 46, 50900-230, 1697.4
+23710, Nicolas da Silva, 37, 50900-230, 3982.73
+23758, Poliane Oliveira Gimenes, 27, 65042-240, 2432.46
+23802, Taís Oliveira, 25, 72872-385, 4206.55
+23836, Isabela Barroso Gimenes, 20, 44044-257, 846.25
+23846, Émerson Oliveira, 22, 50900-230, 3818.68
+23893, Isabela Falcão Silveira, 24, 91360-160, 2454.83
+23909, Carlos Quadros Paschoal, 54, 72872-385, 738.52
+23952, Janaína Oliveira Assis, 60, 91360-160, 3652.95
+23980, Kléber Machado Damasceno, 23, 50900-230, 3237.84
+23999, Beatriz Damasceno Braga, 50, 68371-360, 4533.05
+24011, Carlos Oliveira, 56, 44044-257, 1895.72
+24034, Carina Velho Vargas, 37, 44044-257, 1668.59
+24062, Gilmar Medeiros Farias, 54, 50900-230, 59.24
+24077, Carlos Pedroso Assis, 45, 50900-230, 1023.58
+24125, Beatriz Velho, 46, 77415-862, 513.1
+24125, Fabiana Oliveira Fraga, 40, 83305-500, 4180.02
+24125, Janaína Paschoal Vaz, 37, 50900-230, 1432.57
+24145, Adriano Oliveira, 45, 36081-770, 1343.17
+24160, Gilmar Gimenes, 38, 77415-862, 2351.96
+24160, Carlos Monteiro Pacheco, 42, 64211-140, 2520.34
+24168, Fabiana Vaz, 42, 72901-718, 3479.56
+24179, Heloísa Assis, 20, 64211-140, 4862.0
+24186, Valdomiro Nazário, 53, 64211-140, 1509.22
+24230, Fabiana Damasceno Correia, 20, 65042-240, 3451.41
+24258, Kléber Leal, 58, 83221-160, 1554.8
+24260, Kléber Pacheco, 22, 65042-240, 1804.08
+24261, Isabela Fraga Damasceno, 43, 91360-160, 4806.77
+24304, Adriano Cavalcanti Ito, 41, 72872-385, 2427.72
+24331, Heloísa Fraga Falcão, 19, 83305-500, 316.66
+24380, Adriano Monteiro Leal, 48, 50900-230, 3050.18
+24405, Elaine Machado Oliveira, 19, 64211-140, 3680.64
+24444, Fernando Gimenes, 45, 64211-140, 2508.18
+24450, Poliane Farias, 29, 91360-160, 256.71
+24475, Émerson Cavalcanti, 29, 54786-220, 2577.01
+24503, Émerson Ito Nazário, 50, 83305-500, 2705.87
+24536, Elaine da Cunha Medeiros, 59, 36081-770, 3798.81
+24564, Antônio Barroso, 47, 64211-140, 3857.97
+24565, Émerson da Cruz, 20, 72872-385, 2432.26
+24611, Fernando Correia, 28, 64211-140, 4085.07
+24653, Fabiana Simões, 28, 65042-240, 3224.53
+24667, Elaine Pacheco da Cruz, 59, 36081-770, 4805.82
+24702, Kléber Lobo Quadros, 50, 36081-770, 4677.79
+24740, Carina Farias, 53, 72901-718, 4824.74
+24758, Carlos Correia, 47, 50900-230, 3950.35
+24784, Elaine Ruiz Paschoal, 29, 49072-600, 2291.56
+24822, Valdomiro Lopes, 53, 54786-220, 1525.73
+24838, Gilmar Carmo, 50, 36081-770, 846.13
+24878, Émerson Lima, 54, 44044-257, 3816.96
+24906, Carina Cavalcanti, 51, 72901-718, 2253.12
