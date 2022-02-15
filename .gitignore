@@ -1,0 +1,8 @@
+# Env file
+.env
+
+# pyc files
+*.pyc
+
+# test files
+test/times.data
