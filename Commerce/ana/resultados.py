@@ -1,6 +1,6 @@
 from classes import *
 
-def escolher_arqs(orders, consumers, products):
+def escolher_arqs():
   resposta = input('Organizados (ORG) ou embaralhados (EMB)?')
 
   arquivo = Arquivo()
@@ -13,6 +13,8 @@ def escolher_arqs(orders, consumers, products):
     orders = arquivo.ler("shuffle/orders.csv")
     consumers = arquivo.ler("shuffle/consumers.csv")
     products = arquivo.ler("shuffle/products.csv")
+
+  return orders, consumers, products
 
 
 def Executar(resultados):
@@ -24,16 +26,8 @@ def Executar(resultados):
   conferir = Conferir()
 
   #Leitura de arquivos
-  resposta = input('Organizados (ORG) ou embaralhados (EMB)?')
+  orders, consumers, products = escolher_arqs()
   
-  if resposta == 'ORG':
-    orders = arquivo.ler("original/orders.csv")
-    consumers = arquivo.ler("original/consumers.csv")
-    products = arquivo.ler("original/products.csv")
-  if resposta == 'EMB':
-    orders = arquivo.ler("shuffle/orders.csv")
-    consumers = arquivo.ler("shuffle/consumers.csv")
-    products = arquivo.ler("shuffle/products.csv")
 
   #Loop de conferência dos pedidos
   for pedido in orders:
