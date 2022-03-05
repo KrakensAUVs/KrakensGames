@@ -5,24 +5,13 @@ import csv
 
 if __name__ == '__main__':
 
-  #Inicialização de classes
-  arquivo = Arquivo()
-  conferir = Conferir()
-
-  #Leitura de arquivos
-  orders = arquivo.ler("orders.csv")
-  consumers = arquivo.ler("consumers.csv")
-  products = arquivo.ler("products.csv")
-
   #Início do array de registro dos resultados
   resultados = [['consumer_id', 'Nome', 'Compras Inválidas']]
 
-  Executar(orders, consumers, products, resultados, conferir)
+  Executar(resultados)
   
   #Escrita do array de resultados no arquivo CSV para facilitar leitura
-  with open('resultados.csv', 'w', newline='') as file:
-    mywriter = csv.writer(file, delimiter=',')
-    mywriter.writerows(resultados)
+  Arquivo().escrever(resultados, 'resultados.csv')
   
   #Apresentação dos resultados
   print("Pessoas afetadas: ")
@@ -31,8 +20,9 @@ if __name__ == '__main__':
 
   resp = input("Deseja abrir o arquivo aqui? (s ou n)")
 
+  leitura = Arquivo()
   if resp == "s":
-    resultado_leitura = arquivo.ler("resultados.csv")
+    resultado_leitura = leitura.ler("resultados.csv")
     print(resultado_leitura)
 
 

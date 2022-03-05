@@ -1,966 +1,903 @@
 consumer_id,Nome,Compras Inválidas
-2, Taís Braga,1
-3, Fabiana Cavalcanti Braga,4
-4, Poliane Simões Arruda,3
-5, Émerson de Salles,1
-6, Kléber Machado Paim,5
-7, Fabiana Carmo Machado,5
-8, Antônio da Cunha,5
-9, Émerson da Silva Lopes,3
-10, Kléber Monteiro Leal,2
-11, Fabiana Braz Paschoal,3
-12, Beatriz Machado Falcão,2
-13, Kléber Oliveira Paim,2
-14, Antônio Braga,4
-15, Antônio Machado,5
-16, Beatriz Simões,3
-17, Poliane Gimenes Paim,2
-18, Gilmar Pedroso Leal,1
-19, Janaína Gimenes Paim,5
-20, Fabiana Paschoal,6
-21, Adriano Leal,7
-22, Gilmar Monteiro Machado,2
-23, Rafael Paim,5
-24, Poliane da Silva,5
-26, Elaine Vaz,1
-27, Gilmar Medeiros,3
-28, Isabela da Cruz Nazário,1
-29, Gilmar Correia Velho,3
-30, Elaine Farias Gimenes,3
-31, Taís Silveira,1
-32, Kléber Ito Vaz,1
-33, Carlos Silveira,2
-34, Fabiana Machado Cavalcanti,7
-35, Janaína Pacheco,6
-36, Janaína Arruda Lima,7
-37, Adriano Cavalcanti,3
-38, Heloísa Machado,2
-39, Émerson Quadros,4
-40, Nicolas Lima Fraga,6
-41, Carina Oliveira Simões,6
-42, Janaína Nazário Leal,4
-43, Janaína Braz Arruda,4
-44, Elaine Gimenes,2
-45, Gilmar Lopes Braz,1
-46, Antônio Cavalcanti Vaz,1
-47, Elaine Barroso,6
-48, Taís Machado,2
-49, Carina Correia Medeiros,7
-50, Nicolas Paschoal Correia,2
-51, Nicolas Farias da Silva,1
-52, Poliane da Silva,1
-53, Isabela da Silva Carmo,3
-54, Heloísa Correia da Cunha,3
-55, Carina Nazário,4
-56, Carlos Velho,2
-57, Elaine Pacheco Leal,4
-58, Fabiana Fraga Cavalcanti,5
-59, Poliane Leal Lobo,3
-60, Carlos Pacheco,4
-61, Nicolas Machado Gimenes,6
-62, Valdomiro Pacheco Vargas,2
-63, Fabiana da Silva Medeiros,3
-64, Valdomiro Monteiro,1
-65, Carina Leal Vaz,5
-66, Kléber Lima Quadros,1
-67, Kléber Farias Ruiz,4
-68, Taís Assis Arruda,2
-70, Gilmar Gimenes,5
-71, Adriano Velho Ito,1
-72, Kléber Damasceno Gimenes,7
-73, Janaína Braz,3
-74, Janaína Cavalcanti,1
-75, Émerson Assis Simões,6
-76, Fernando Assis,6
-77, Nicolas Silveira,5
-78, Poliane Machado Pedroso,5
-79, Carina Quadros Fraga,5
-80, Kléber Lima Ruiz,1
-81, Carlos Braga Quadros,6
-82, Carina Braz Vargas,4
-83, Carina Gimenes da Silva,1
-84, Heloísa Correia Arruda,3
-85, Rafael Arruda,5
-86, Nicolas Gimenes Farias,5
-87, Beatriz Braga Falcão,7
-88, Fernando Gimenes,6
-89, Heloísa Pedroso Braga,3
-90, Valdomiro Braga da Cunha,3
-91, Carina Oliveira,3
-92, Fernando Medeiros,4
-93, Gilmar Ito,5
-94, Nicolas Machado,3
-95, Nicole Farias Braz,5
-96, Elaine Leal,2
-97, Poliane Lima,7
-98, Nicolas Lima Nazário,2
-99, Émerson Assis,3
-100, Elaine Braga Nazário,3
-101, Carlos Pedroso,5
-102, Gilmar Cavalcanti,5
-103, Gilmar Lobo Ruiz,2
-104, Taís da Silva Machado,5
-105, Taís Cavalcanti Carmo,2
-106, Heloísa Vargas,7
-107, Nicole Cavalcanti Cavalcanti,6
-108, Nicole da Cruz Lobo,6
-109, Émerson da Silva Barroso,2
-110, Taís Vargas Leal,6
-111, Fernando de Salles,2
-112, Nicolas Ito Lobo,4
-113, Carina Gimenes,1
-114, Nicole Gimenes Silveira,4
-115, Rafael Oliveira Pacheco,3
-116, Carina Pacheco Falcão,3
-117, Rafael Vaz Damasceno,1
-118, Nicole Medeiros da Silva,1
-119, Heloísa Paim Silveira,2
-120, Isabela Monteiro,6
-121, Fernando Gimenes Machado,3
-122, Elaine Lopes Medeiros,3
-123, Antônio Leal Pacheco,6
-124, Beatriz Cavalcanti Correia,3
-125, Janaína Carmo,7
-127, Taís Ito Oliveira,1
-128, Elaine Medeiros da Cunha,6
-129, Taís Barroso Braga,6
-130, Beatriz Monteiro Fraga,6
-131, Heloísa Ito,4
-132, Fernando Pedroso,1
-133, Valdomiro Vaz da Cunha,1
-134, Carina Paim,2
-135, Poliane Cavalcanti,4
-136, Nicolas Lima,6
-137, Carina Gimenes,3
-138, Taís Lima Ito,3
-139, Heloísa Quadros Correia,4
-140, Adriano Gimenes Pacheco,1
-141, Taís Ito Simões,7
-142, Isabela Leal,1
-143, Kléber Ruiz,1
-144, Taís Cavalcanti Machado,2
-145, Carina Vaz Pedroso,5
-146, Taís Medeiros Nazário,1
-147, Carina Pacheco,3
-148, Adriano Lima da Silva,5
-149, Émerson da Cruz,5
-151, Carina Braz Quadros,1
-152, Valdomiro Paschoal Simões,6
-153, Rafael Simões da Silva,2
-154, Isabela Braga Fraga,2
-155, Gilmar Vaz Lima,2
-156, Valdomiro Gimenes,4
-158, Fabiana Velho,3
-159, Fabiana Gimenes,6
-160, Kléber Simões,5
-162, Poliane Quadros da Cruz,1
-163, Beatriz da Cruz,2
-164, Fabiana da Silva,5
-165, Carina Leal,6
-167, Heloísa Lima,4
-168, Nicolas da Cunha,1
-169, Adriano Silveira,4
-170, Valdomiro Gimenes Barroso,6
-171, Gilmar da Cruz Simões,2
-172, Nicolas Pedroso da Silva,1
-173, Janaína Paschoal Oliveira,2
-174, Kléber Braz,6
-175, Taís Machado,4
-176, Gilmar Carmo Ruiz,2
-177, Beatriz Braga Velho,4
-178, Gilmar Lopes,6
-179, Elaine Farias Damasceno,2
-180, Heloísa Oliveira,2
-181, Poliane Simões,6
-182, Kléber da Cruz da Cruz,2
-183, Janaína Machado,4
-184, Rafael Assis Machado,1
-185, Nicole Damasceno Medeiros,5
-186, Nicole Silveira,3
-187, Fabiana Damasceno,3
-188, Adriano Velho Falcão,6
-189, Gilmar Ito,4
-190, Taís Assis Oliveira,1
-191, Gilmar Falcão,2
-192, Émerson Barroso,1
-193, Adriano Assis,2
-194, Poliane Arruda,2
-195, Carina Arruda,4
-196, Poliane Cavalcanti Assis,5
-198, Adriano Velho,6
-199, Poliane de Salles,1
-200, Taís Medeiros Leal,4
-201, Poliane Pedroso Pacheco,4
-202, Carlos Pedroso Pedroso,4
-203, Nicole Ruiz Barroso,4
-204, Nicole Braga,6
-205, Carlos Fraga,4
-206, Heloísa Falcão,2
-207, Elaine Lopes Lopes,7
-208, Carlos Braz Vargas,4
-209, Carina Lobo Lopes,3
-210, Beatriz da Cunha,6
-211, Nicolas Falcão,6
-212, Nicole Braz Lima,7
-213, Beatriz Gimenes,6
-214, Gilmar Ito Correia,2
-215, Carina Velho,3
-216, Carina Paim Simões,5
-217, Janaína Damasceno Lima,5
-218, Adriano Quadros Lopes,1
-219, Heloísa Lopes,2
-220, Nicolas Arruda,3
-221, Carlos Falcão,1
-222, Kléber da Silva,5
-223, Carlos Paschoal Carmo,2
-224, Poliane Lobo,2
-225, Adriano da Cunha Ito,4
-226, Nicolas Gimenes,2
-227, Heloísa Vargas da Cruz,4
-228, Nicole Farias Braz,2
-229, Fernando Medeiros Lopes,1
-230, Elaine Machado Nazário,5
-232, Nicolas Lima,5
-233, Janaína Lopes Arruda,4
-234, Carlos Paschoal Quadros,2
-235, Carina Pedroso Vargas,2
-236, Heloísa Oliveira Lobo,3
-237, Janaína da Cruz,1
-238, Gilmar Machado,5
-239, Fabiana de Salles Quadros,3
-240, Beatriz Gimenes Oliveira,6
-241, Nicole Fraga Monteiro,3
-242, Carina da Cunha Simões,1
-243, Carlos Falcão,5
-245, Isabela Oliveira da Cunha,5
-246, Gilmar Silveira,5
-247, Fernando Lima,4
-248, Kléber Quadros Paim,4
-249, Taís Falcão Correia,5
-250, Beatriz Braga Lima,3
-251, Antônio Paschoal,3
-252, Fabiana da Silva,1
-253, Janaína Lima,2
-254, Beatriz Machado Falcão,6
-255, Valdomiro Pedroso Cavalcanti,2
-256, Émerson Damasceno,2
-257, Kléber Lima,6
-258, Janaína Farias Pacheco,7
-259, Isabela Ruiz,1
-260, Rafael Correia,1
-261, Elaine de Salles,6
-262, Carina Nazário Quadros,4
-263, Janaína Correia Lima,6
-264, Taís Machado,2
-265, Fabiana Nazário de Salles,3
-266, Beatriz Ito,5
-267, Antônio Vaz,2
-268, Carlos Damasceno,1
-270, Carlos Quadros,5
-271, Valdomiro Fraga Lobo,4
-272, Janaína Braga Pacheco,4
-273, Nicole Cavalcanti da Cunha,4
-274, Elaine Silveira,2
-275, Janaína Nazário Vargas,2
-276, Isabela Arruda,1
-277, Gilmar Lima,5
-278, Poliane da Cunha,2
-279, Nicolas Braga Vaz,6
-280, Antônio Assis,4
-281, Poliane Ito,2
-282, Fabiana Silveira,1
-283, Nicole Machado Medeiros,3
-284, Poliane Lima,6
-285, Antônio Braz Carmo,4
-286, Adriano Quadros,1
-287, Carina Vaz Simões,6
-288, Nicolas Medeiros Ito,6
-289, Valdomiro Ito Leal,2
-290, Antônio Braga Braz,2
-292, Adriano Quadros,1
-293, Kléber Oliveira,2
-294, Carlos Monteiro Carmo,4
-295, Gilmar Medeiros,3
-296, Gilmar Vargas,3
-297, Valdomiro Quadros Damasceno,3
-298, Beatriz Lopes,4
-299, Janaína Silveira,3
-300, Carina Falcão,4
-301, Elaine Falcão,1
-302, Carlos de Salles Braga,3
-303, Fernando Vargas,1
-304, Valdomiro Vargas,2
-305, Heloísa Cavalcanti da Silva,3
-306, Janaína Lima,3
-307, Nicole Carmo Braga,7
-308, Taís Braz,1
-309, Kléber Damasceno,6
-310, Adriano Carmo,3
-311, Janaína Simões Ito,3
-312, Beatriz Machado,6
-313, Beatriz Paschoal Lopes,2
-314, Nicolas Barroso de Salles,4
-315, Nicole Paschoal Medeiros,2
-316, Fernando Farias,6
-317, Rafael Velho Silveira,1
-318, Antônio Vaz,5
-319, Émerson Simões Fraga,2
-320, Beatriz Vaz,3
-321, Elaine Braz Farias,3
-322, Carina Fraga Braga,1
-323, Isabela Lobo Farias,6
-324, Janaína Simões,6
-325, Nicolas Silveira,1
-326, Fabiana Vaz Paschoal,7
-327, Carlos Silveira,6
-328, Adriano Ruiz da Silva,5
-329, Isabela Farias da Cunha,6
-330, Adriano Gimenes Vaz,3
-331, Isabela Gimenes Paim,2
-332, Carlos Barroso Oliveira,4
-333, Poliane Vaz,6
-334, Carina Farias Arruda,3
-335, Janaína da Cunha,2
-336, Nicole Machado Braz,1
-337, Heloísa Falcão,4
-338, Heloísa Nazário Fraga,1
-339, Kléber Medeiros Braga,4
-340, Gilmar Lima,6
-341, Adriano Gimenes,3
-342, Nicolas Lobo Lopes,5
-343, Elaine da Silva,6
-344, Kléber Ito Arruda,5
-345, Fabiana Pedroso,4
-346, Isabela de Salles Braz,1
-347, Antônio Monteiro Velho,2
-348, Beatriz Machado Nazário,5
-349, Adriano Nazário,5
-350, Janaína Farias,2
-351, Kléber Medeiros Farias,4
-352, Fernando da Cruz,3
-353, Carlos Lima Falcão,7
-354, Janaína Lopes Medeiros,3
-355, Valdomiro Falcão,7
-356, Antônio da Cruz Nazário,6
-357, Kléber Cavalcanti,4
-358, Fernando Ito Correia,2
-359, Carlos Leal Carmo,4
-360, Gilmar Machado Machado,2
-361, Taís Correia Lobo,6
-362, Kléber Paschoal,3
-363, Émerson Braga,5
-364, Gilmar Correia Lopes,5
-365, Antônio Carmo Arruda,5
-366, Carlos da Silva Machado,6
-367, Isabela Pedroso,7
-368, Janaína da Silva Pedroso,2
-369, Heloísa Leal Pacheco,7
-370, Elaine Machado,4
-371, Nicole Lopes Nazário,3
-372, Nicolas Gimenes,5
-373, Beatriz Falcão Damasceno,3
-374, Adriano Damasceno,3
-375, Carina Vaz,2
-376, Beatriz Arruda Cavalcanti,3
-377, Nicole Leal Vaz,4
-378, Gilmar Velho,5
-379, Nicolas Vargas,5
-380, Valdomiro Lima Machado,2
-381, Poliane Nazário Vargas,4
-382, Antônio Vaz Pacheco,1
-383, Valdomiro Cavalcanti Vaz,4
-384, Fernando Ruiz Barroso,7
-385, Fabiana da Silva,3
-386, Elaine Carmo Silveira,3
-387, Rafael Cavalcanti Fraga,6
-388, Isabela da Cruz Carmo,5
-389, Antônio Gimenes,4
-390, Elaine Vargas,6
-391, Isabela Lima Cavalcanti,7
-392, Fabiana Barroso Barroso,2
-393, Valdomiro Vaz Machado,5
-395, Elaine Simões Lima,4
-396, Heloísa Fraga Carmo,1
-397, Nicolas Oliveira Assis,4
-398, Rafael Braz,3
-399, Nicole Gimenes,4
-400, Antônio Lopes Monteiro,2
-401, Taís Carmo Silveira,1
-402, Carina Simões,5
-404, Émerson Monteiro,4
-405, Isabela Paim,4
-406, Fernando Ito Assis,5
-407, Kléber Gimenes,5
-408, Rafael Ruiz,4
-409, Poliane Simões Nazário,2
-410, Kléber Machado,4
-411, Adriano Lima,5
-412, Fabiana Vaz,7
-413, Valdomiro de Salles Vaz,3
-414, Janaína Silveira,2
-415, Émerson Vaz,3
-416, Heloísa de Salles Falcão,6
-418, Gilmar Silveira,5
-419, Beatriz Braz Leal,2
-420, Adriano Velho,5
-421, Kléber Braz,1
-422, Nicolas Lima,2
-423, Isabela Velho,3
-425, Elaine Machado Machado,2
-426, Janaína Vargas,4
-427, Carlos Gimenes,3
-428, Heloísa da Cruz Assis,4
-429, Heloísa Ito Cavalcanti,1
-430, Valdomiro Quadros Lobo,3
-431, Poliane Vaz,1
-432, Heloísa Silveira da Cunha,4
-433, Elaine Gimenes Ito,5
-434, Adriano Paim Braz,1
-435, Valdomiro Pedroso,1
-436, Carlos Farias,1
-437, Rafael Gimenes,4
-438, Émerson Barroso Pacheco,2
-439, Fernando Cavalcanti,4
-440, Rafael Lobo,2
-441, Nicolas Quadros Lima,3
-442, Nicolas Cavalcanti,6
-443, Adriano Vaz,4
-444, Heloísa Quadros,5
-445, Rafael Velho Velho,2
-446, Carina Pacheco,6
-447, Elaine Farias,3
-448, Taís Farias Assis,3
-449, Poliane Lima Lopes,4
-450, Valdomiro da Silva,6
-451, Fabiana de Salles Ruiz,5
-452, Fernando Medeiros Cavalcanti,1
-453, Rafael Lobo Fraga,6
-454, Fernando Velho,3
-455, Fernando Medeiros,4
-456, Heloísa Gimenes Correia,1
-457, Taís Machado,1
-458, Kléber Carmo,4
-459, Gilmar Correia Braga,3
-460, Janaína Pedroso da Silva,1
-461, Nicolas Machado Nazário,5
-462, Carlos de Salles Simões,1
-463, Émerson Machado Leal,2
-464, Valdomiro da Cunha,2
-465, Nicolas Silveira,5
-466, Fernando Monteiro,1
-467, Adriano Ito Arruda,2
-468, Taís Quadros Barroso,5
-469, Fabiana Fraga,5
-470, Janaína Farias Gimenes,2
-471, Fabiana Arruda,1
-472, Elaine Machado Ruiz,3
-473, Kléber Barroso,5
-474, Heloísa Monteiro Lima,5
-475, Taís Cavalcanti Simões,5
-476, Rafael Correia da Cruz,6
-477, Beatriz Farias Assis,1
-478, Heloísa Vargas,2
-479, Émerson Assis,2
-480, Taís Simões da Cunha,6
-481, Fernando da Cruz,4
-482, Heloísa Arruda,3
-483, Nicolas Assis da Cruz,3
-484, Janaína Paschoal,4
-485, Beatriz Assis,6
-486, Kléber Arruda Cavalcanti,6
-488, Antônio Arruda Barroso,6
-489, Valdomiro Monteiro,4
-490, Émerson Damasceno Falcão,1
-491, Émerson Lima Vargas,4
-492, Rafael Nazário,1
-493, Elaine Medeiros Lopes,1
-494, Janaína Falcão Carmo,3
-495, Heloísa Correia Lopes,1
-496, Poliane Assis Damasceno,6
-497, Carina Damasceno,1
-498, Fernando Lopes Vargas,4
-499, Carlos Pacheco Paim,1
-500, Heloísa Nazário Cavalcanti,7
-501, Émerson da Silva,5
-502, Poliane Arruda,5
-503, Émerson Paim,3
-504, Beatriz Gimenes Paschoal,6
-505, Gilmar Cavalcanti Correia,2
-506, Nicolas da Cruz Machado,1
-507, Émerson Carmo,3
-508, Fernando Simões Correia,2
-509, Fabiana Paim Assis,5
-510, Taís Ruiz,2
-511, Poliane Paschoal Lima,5
-512, Kléber Monteiro,4
-513, Carlos da Cunha,1
-514, Nicolas Assis,1
-515, Janaína Leal,4
-516, Valdomiro Leal Vargas,3
-517, Valdomiro Lobo,7
-518, Adriano Silveira,3
-519, Janaína Gimenes Pedroso,2
-522, Fabiana Vaz Gimenes,7
-523, Carina de Salles Oliveira,3
-524, Isabela Gimenes Correia,7
-525, Poliane Lobo,3
-526, Poliane Machado Vaz,7
-527, Émerson Lima Gimenes,3
-528, Isabela Medeiros Lobo,1
-529, Gilmar Damasceno Velho,3
-530, Kléber Gimenes Silveira,4
-531, Heloísa Braz Silveira,6
-532, Émerson Medeiros Medeiros,2
-533, Fabiana Farias Oliveira,6
-534, Taís Lopes Braga,3
-535, Poliane Paim,2
-536, Carlos Carmo da Cunha,6
-537, Janaína Oliveira,7
-538, Isabela Silveira Assis,5
-539, Carlos Correia Gimenes,2
-540, Heloísa Leal,4
-541, Carina da Cunha Correia,6
-542, Carlos Assis,4
-543, Gilmar Ito Braz,4
-544, Carlos da Cruz Braz,3
-545, Rafael Leal Silveira,2
-546, Kléber Correia de Salles,5
-547, Janaína Vaz Paschoal,2
-548, Nicole Quadros Carmo,6
-549, Carina Vargas,2
-550, Valdomiro Damasceno,4
-551, Rafael Braga Velho,3
-552, Émerson Gimenes,3
-553, Fernando Braz,5
-554, Émerson Ito,3
-555, Fernando Simões Pedroso,4
-556, Antônio de Salles Vaz,1
-557, Carlos Leal de Salles,4
-558, Nicolas Paschoal,5
-559, Fernando Paim,6
-560, Beatriz da Cruz,2
-561, Carina Ito Monteiro,5
-562, Kléber Silveira da Silva,6
-563, Rafael Damasceno Quadros,6
-564, Elaine Machado,2
-565, Fabiana Falcão Lopes,2
-566, Taís Nazário,6
-567, Kléber Braga,5
-568, Heloísa da Cunha,1
-569, Fabiana Pedroso Oliveira,1
-571, Heloísa Pacheco Ruiz,3
-572, Fernando Arruda Velho,2
-573, Taís Braga Paschoal,4
-574, Taís Paim,1
-575, Valdomiro Gimenes Gimenes,2
-576, Nicolas Lobo,3
-577, Elaine Velho,3
-578, Kléber Pedroso Barroso,1
-579, Gilmar da Cunha,3
-580, Isabela Lopes da Cunha,5
-581, Rafael Oliveira,7
-582, Antônio Silveira Gimenes,2
-583, Carlos Monteiro,1
-584, Carina Leal,1
-585, Rafael da Cunha Gimenes,3
-586, Nicolas Gimenes Machado,5
-587, Kléber Fraga,6
-588, Poliane da Silva,7
-589, Carlos Paim Ito,3
-590, Gilmar Gimenes,5
-591, Kléber Vaz Damasceno,4
-592, Beatriz Gimenes da Silva,4
-593, Isabela Vaz da Cruz,7
-594, Kléber Lima,3
-595, Antônio Vaz Velho,4
-596, Valdomiro Nazário,2
-597, Isabela Gimenes Correia,4
-598, Antônio Machado,1
-600, Kléber Lobo Paschoal,3
-601, Heloísa Carmo,1
-602, Kléber Monteiro,1
-603, Rafael Correia,4
-604, Rafael Simões Paim,4
-605, Carina Pacheco Correia,4
-606, Carina Monteiro,7
-607, Poliane Machado Braga,4
-608, Carlos Paim,5
-609, Carina Gimenes,2
-610, Carlos Braga Barroso,4
-611, Taís Lopes,1
-612, Carina Carmo,4
-613, Isabela Lobo,5
-614, Antônio Gimenes,6
-615, Heloísa Simões Ito,6
-616, Valdomiro Carmo Arruda,3
-617, Beatriz Silveira,4
-618, Fernando Lima,3
-619, Isabela Monteiro Fraga,4
-620, Gilmar Quadros,5
-621, Fernando Lima,5
-622, Poliane Medeiros Monteiro,2
-623, Carlos Oliveira,6
-624, Fabiana da Cruz,6
-625, Elaine Ruiz Fraga,1
-626, Elaine Monteiro da Cunha,2
-627, Fabiana Assis Paschoal,1
-628, Gilmar Vaz Silveira,1
-629, Taís Damasceno Monteiro,1
-630, Antônio Braz,4
-631, Heloísa Paschoal,3
-632, Rafael Quadros,3
-633, Elaine Farias,5
-634, Fabiana Simões Quadros,4
-635, Rafael Nazário,4
-636, Elaine Vargas,3
-637, Valdomiro Correia,6
-638, Isabela Cavalcanti,2
-639, Taís Farias,4
-640, Carlos Simões Quadros,3
-641, Elaine Correia,3
-643, Isabela Oliveira,1
-644, Antônio Lobo,3
-645, Nicole de Salles Machado,3
-646, Fernando Cavalcanti,1
-647, Antônio Machado,4
-648, Nicolas Medeiros,1
-649, Valdomiro Machado,5
-650, Nicolas Quadros Assis,5
-651, Isabela Ruiz Correia,4
-652, Nicolas Paschoal Pacheco,1
-653, Valdomiro Lima Pacheco,6
-654, Nicolas Machado Pacheco,2
-655, Kléber Arruda Oliveira,6
-656, Kléber Falcão,2
-657, Gilmar Machado Silveira,5
-658, Kléber da Cruz da Silva,4
-659, Heloísa da Cruz Gimenes,6
-660, Rafael da Cruz,5
-661, Valdomiro Braz,4
-662, Nicole Vargas Pacheco,7
-663, Fabiana Monteiro Barroso,4
-664, Kléber Lobo Pacheco,1
-665, Fabiana Barroso Machado,2
-666, Carina Pacheco Gimenes,3
-667, Rafael Velho,2
-668, Isabela Lima Monteiro,3
-669, Heloísa Nazário da Cunha,1
-670, Nicole Gimenes Braz,6
-671, Adriano Farias Machado,2
-672, Adriano Leal Ito,3
-673, Nicole Oliveira,4
-674, Émerson Farias Fraga,3
-675, Nicole Vargas,1
-676, Kléber Paschoal,1
-677, Isabela Velho,6
-678, Émerson Quadros Correia,4
-679, Émerson Medeiros Assis,1
-680, Émerson Oliveira Lima,5
-681, Carina Braga,3
-682, Heloísa Braga,2
-683, Fernando Nazário Gimenes,4
-684, Heloísa da Silva Quadros,3
-685, Carlos Falcão de Salles,4
-687, Kléber Farias Arruda,3
-688, Rafael Leal,5
-689, Fabiana Lopes Nazário,2
-690, Carlos Vargas,1
-691, Heloísa Correia,2
-692, Taís da Cruz da Cunha,6
-693, Rafael Ito Cavalcanti,2
-694, Valdomiro Carmo Silveira,4
-695, Poliane Velho Leal,4
-696, Taís Silveira,5
-697, Rafael da Silva Ito,4
-698, Fernando Vaz,2
-699, Heloísa Braz,5
-700, Taís Assis Carmo,5
-701, Poliane Machado,4
-702, Elaine Braz Lima,2
-703, Gilmar Barroso Medeiros,2
-704, Isabela Gimenes,3
-705, Rafael Gimenes,3
-706, Fabiana Paschoal Velho,3
-707, Heloísa Arruda da Cruz,4
-708, Isabela Medeiros,1
-709, Fernando Gimenes Correia,5
-710, Nicole da Cruz Machado,1
-711, Fabiana Carmo Assis,5
-712, Taís Damasceno,5
-713, Heloísa Gimenes,2
-714, Adriano Farias Machado,4
-715, Valdomiro Paim,4
-716, Carina Carmo Ruiz,5
-717, Adriano da Silva,1
-718, Nicole Damasceno de Salles,3
-719, Carlos de Salles,5
-720, Nicole Ruiz,6
-721, Fernando Lopes Oliveira,1
-722, Fabiana Ruiz,6
-723, Carlos Ruiz de Salles,2
-725, Antônio Falcão Gimenes,2
-726, Nicole Braz Pacheco,4
-727, Isabela Ruiz Vargas,5
-728, Isabela Vaz,3
-729, Nicole Gimenes Carmo,5
-730, Fabiana Lobo Paschoal,2
-731, Beatriz Ito,4
-732, Nicolas da Cunha Lima,3
-733, Carina Quadros,2
-734, Nicolas Velho Silveira,4
-735, Beatriz Lobo Assis,4
-736, Fernando Paschoal,1
-737, Antônio Nazário Farias,3
-738, Nicolas Gimenes,2
-739, Nicolas da Silva Pacheco,2
-740, Rafael Lobo Cavalcanti,2
-741, Poliane Oliveira Assis,6
-742, Elaine Fraga Ito,1
-743, Gilmar Medeiros,2
-745, Nicolas Barroso,6
-746, Émerson Ruiz Braga,4
-747, Janaína Velho Braz,4
-749, Isabela Ito Correia,6
-750, Nicole Oliveira Fraga,1
-751, Beatriz Barroso Lima,1
-752, Taís Arruda,2
-753, Taís Oliveira Lima,1
-754, Beatriz Braz Cavalcanti,4
-755, Nicolas Medeiros Paim,1
-756, Nicole Assis da Cruz,1
-757, Fabiana Machado,7
-758, Fernando Quadros,1
-759, Gilmar Silveira,3
-760, Poliane Velho Barroso,2
-761, Valdomiro Braz da Cruz,3
-762, Carina Quadros Vargas,1
-763, Isabela Farias,3
-764, Janaína Quadros Oliveira,7
-765, Beatriz Medeiros Nazário,6
-766, Elaine de Salles,3
-767, Carlos da Cruz,1
-768, Adriano Quadros Fraga,5
-769, Adriano Vaz Vargas,4
-770, Fernando Cavalcanti,3
-771, Isabela Lopes Monteiro,4
-772, Beatriz Carmo Correia,1
-773, Rafael Machado,3
-774, Taís Quadros Farias,1
-775, Kléber de Salles Leal,5
-776, Nicole Simões Lopes,5
-777, Valdomiro Braga,1
-778, Émerson Nazário,6
-779, Kléber Lopes Lima,5
-780, Fabiana Silveira Paim,2
-781, Isabela Damasceno,6
-782, Émerson Oliveira Assis,7
-783, Heloísa da Cunha Quadros,3
-784, Adriano Lobo Braz,5
-785, Fernando Gimenes Falcão,4
-786, Rafael Paim Lima,4
-787, Fernando Vargas,2
-788, Fernando Barroso,4
-789, Gilmar Assis Braz,2
-790, Fabiana Lopes Assis,3
-791, Nicole Falcão Damasceno,2
-792, Isabela da Silva,5
-793, Fabiana Gimenes Paschoal,3
-794, Valdomiro Velho Lopes,6
-795, Fabiana Gimenes,1
-796, Beatriz Arruda,5
-797, Adriano Barroso Assis,2
-798, Carina Leal Pacheco,4
-799, Kléber Falcão,4
-800, Beatriz Paschoal Pedroso,1
-801, Fernando Assis,5
-802, Valdomiro Lima,5
-803, Rafael Arruda,5
-804, Émerson Fraga,4
-805, Fernando Barroso Ito,1
-806, Kléber Paim,1
-807, Elaine Gimenes Quadros,1
-808, Janaína Pacheco Damasceno,3
-809, Valdomiro Machado da Silva,3
-810, Isabela Cavalcanti Paschoal,5
-811, Émerson Leal Assis,3
-812, Taís Arruda Damasceno,1
-813, Émerson Vargas,5
-814, Nicole da Cruz Paim,3
-815, Isabela Leal Pedroso,2
-816, Poliane Carmo,1
-817, Carina Pedroso,2
-818, Beatriz Ruiz,5
-819, Poliane Vaz,1
-820, Isabela Paschoal,1
-821, Nicole da Cunha,7
-822, Rafael Leal Ito,5
-823, Valdomiro Carmo Simões,5
-824, Rafael Monteiro Paim,1
-825, Nicolas Cavalcanti Paschoal,4
-826, Rafael Paschoal Cavalcanti,5
-827, Heloísa Vaz,3
-828, Heloísa Silveira,5
-829, Rafael Ruiz Pedroso,2
-830, Janaína Pedroso Arruda,7
-831, Elaine Nazário,3
-832, Kléber Paschoal,2
-833, Nicolas Assis,5
-834, Adriano de Salles Pacheco,2
-835, Heloísa Barroso,5
-836, Nicolas da Cunha Silveira,4
-837, Nicolas Pedroso,2
-838, Fernando Fraga Lobo,4
-839, Kléber Silveira,2
-840, Rafael Pedroso Braz,5
-841, Adriano Fraga Lopes,2
-842, Isabela Lopes,3
-843, Émerson Simões Braga,1
-845, Carina Vargas Paschoal,2
-846, Nicole Vaz Paschoal,7
-847, Gilmar Machado Simões,1
-849, Antônio Silveira,4
-850, Elaine Paim da Cruz,3
-851, Gilmar Ito Ito,4
-852, Fernando Lobo Silveira,4
-853, Elaine Lopes,5
-854, Kléber Quadros,1
-855, Taís Monteiro Carmo,6
-856, Carina Vargas Gimenes,1
-857, Poliane Damasceno,6
-858, Fernando Cavalcanti,2
-859, Elaine Nazário da Cunha,2
-860, Nicole Medeiros,2
-861, Poliane Fraga Lobo,1
-862, Émerson Vargas Cavalcanti,3
-863, Adriano Pedroso Barroso,6
-864, Rafael Oliveira,4
-865, Janaína Paschoal,1
-866, Kléber Leal,5
-867, Carlos Medeiros Falcão,3
-868, Poliane Pacheco da Silva,2
-869, Poliane Lobo Pedroso,5
-870, Nicolas Pacheco,4
-871, Adriano Arruda,5
-872, Heloísa Barroso Gimenes,7
-873, Gilmar Vargas,3
-874, Beatriz Paschoal,5
-875, Kléber Quadros,5
-876, Heloísa Farias Lima,4
-877, Gilmar da Cruz,5
-878, Valdomiro Quadros Cavalcanti,1
-879, Carina Machado,2
-880, Nicole Gimenes Braga,5
-881, Fernando Falcão Ito,3
-882, Nicolas Falcão Damasceno,7
-883, Kléber Fraga Farias,1
-884, Adriano Vargas,3
-885, Antônio Velho,3
-886, Taís Paschoal,4
-887, Nicole Ruiz Barroso,5
-888, Gilmar Vaz,2
-889, Gilmar Machado Cavalcanti,4
-890, Rafael Cavalcanti,2
-892, Antônio Quadros,4
-893, Beatriz Ito,4
-894, Taís Arruda,3
-895, Heloísa Damasceno Lima,1
-896, Elaine da Cunha Velho,1
-897, Nicolas Oliveira,3
-898, Fabiana Silveira,3
-899, Kléber Arruda Braz,6
-900, Rafael Paim da Silva,5
-901, Taís Ito Monteiro,2
-902, Rafael da Cruz,3
-903, Elaine Vaz Ito,2
-904, Nicole Ruiz,6
-905, Janaína de Salles Arruda,6
-906, Elaine Paschoal Fraga,2
-907, Isabela Pedroso Braz,4
-908, Isabela da Cruz,2
-909, Elaine Pedroso,4
-911, Kléber Damasceno Pacheco,4
-912, Beatriz Lobo,2
-913, Émerson Medeiros Pedroso,6
-914, Beatriz Fraga,5
-915, Antônio Machado,1
-916, Émerson Monteiro Braga,2
-917, Valdomiro Gimenes Braga,2
-918, Janaína Silveira,1
-919, Nicole Barroso,7
-920, Nicole Fraga Medeiros,4
-921, Beatriz Carmo Oliveira,2
-922, Antônio de Salles Lima,2
-923, Émerson Simões,3
-924, Nicole Pedroso da Cunha,3
-925, Fabiana Cavalcanti,3
-926, Rafael Fraga Assis,5
-927, Beatriz Paschoal,2
-928, Adriano Pedroso Oliveira,5
-929, Valdomiro Pedroso,4
-930, Isabela da Cruz,1
-931, Heloísa Lopes,6
-932, Beatriz Paschoal,2
-933, Kléber Paschoal,2
-934, Janaína Nazário,2
-935, Gilmar Barroso,7
-936, Rafael Arruda,6
-937, Carina Arruda,3
-938, Antônio Machado,5
-940, Poliane de Salles da Cruz,6
-941, Émerson Machado da Cruz,1
-942, Fernando Fraga Cavalcanti,2
-943, Adriano Assis,4
-944, Taís Cavalcanti Lobo,6
-945, Elaine Carmo da Cruz,5
-946, Nicolas Paschoal,6
-947, Fernando Braga,1
-948, Carina Lobo,2
-949, Émerson Gimenes Braz,1
-950, Elaine Correia Oliveira,2
-951, Poliane Damasceno,6
-952, Nicole Gimenes Oliveira,4
-953, Poliane Silveira Nazário,1
-954, Émerson Lopes,3
-955, Taís Barroso,5
-956, Nicole Carmo Ito,1
-957, Carina Cavalcanti,3
-958, Isabela Assis,3
-959, Isabela Paim,2
-960, Beatriz Machado Paim,3
-961, Fabiana Leal Damasceno,2
-962, Kléber Ito Ruiz,6
-964, Carlos Correia,5
-965, Kléber Simões Simões,3
-966, Carina Pedroso Lobo,1
-967, Adriano Fraga,1
-968, Nicole Carmo Gimenes,4
-969, Heloísa Vargas,1
-970, Taís Machado Medeiros,1
-971, Valdomiro da Cruz,1
-972, Émerson Falcão Ito,4
-973, Fabiana Arruda,2
-974, Isabela Nazário,6
-975, Kléber Braga,2
-976, Fabiana Vaz,4
-977, Fernando Braga,3
-978, Poliane Lima,3
-979, Elaine Ito Lima,6
-980, Carina Simões Damasceno,2
-981, Rafael Barroso,1
-982, Janaína Arruda,4
-984, Beatriz da Cunha Braga,5
-985, Émerson Quadros da Silva,1
-986, Taís da Silva,6
-987, Elaine de Salles Gimenes,6
-988, Poliane Machado Ito,1
-989, Fabiana da Silva,2
-990, Isabela Carmo,4
-991, Valdomiro Vargas,2
-992, Gilmar Fraga,1
-993, Rafael Silveira,5
-995, Kléber Machado,6
-996, Kléber Gimenes Oliveira,1
-997, Poliane Braga,6
-998, Carlos Machado,6
-999, Adriano Barroso Pedroso,6
-1000, Carina Braz,1
+4746, Isabela Assis Pedroso,6
+22570, Adriano Monteiro Braga,4
+13048, Antônio de Salles,1
+15021, Fernando Pedroso,3
+9075, Beatriz da Silva,2
+10103, Heloísa Braz Vaz,5
+20193, Antônio de Salles Cavalcanti,1
+5451, Valdomiro Braga,3
+5815, Taís Lima,3
+10401, Isabela Braz de Salles,1
+19886, Fabiana Pacheco,3
+20494, Adriano Barroso Velho,3
+18281, Nicole Pedroso Lima,5
+23163, Fernando Machado Ruiz,8
+16707, Elaine Silveira Gimenes,3
+15221, Émerson Braga Ruiz,5
+22326, Heloísa Arruda,1
+20662, Isabela Damasceno Nazário,3
+17561, Carina Farias da Cunha,5
+791, Fernando Gimenes Braga,2
+4895, Antônio Farias,3
+9642, Émerson Carmo Cavalcanti,4
+226, Kléber Cavalcanti Lima,8
+5708, Janaína Farias,5
+2747, Beatriz Lima Farias,2
+15689, Adriano Simões Pedroso,2
+23097, Émerson Braz,6
+11102, Fabiana Vargas,5
+6913, Heloísa Farias,4
+23250, Carina Braga,4
+4830, Nicolas de Salles Assis,1
+4496, Nicole Pedroso,1
+19434, Gilmar Silveira,5
+4130, Heloísa Gimenes Vargas,2
+8408, Valdomiro Paschoal Quadros,4
+11206, Valdomiro da Cunha Medeiros,2
+15719, Rafael Lopes Gimenes,3
+20032, Nicole Vaz Braz,2
+20871, Beatriz Barroso,4
+184, Fernando Velho,4
+13128, Beatriz Velho Falcão,5
+1406, Poliane Ruiz,3
+4109, Kléber Quadros Leal,3
+11945, Taís da Cruz Machado,1
+20162, Adriano Leal Ruiz,4
+14566, Heloísa Monteiro Pacheco,4
+21976, Isabela Braga Paim,3
+14168, Nicolas Carmo,2
+7632, Antônio Medeiros,3
+13305, Carina Carmo,4
+20345, Nicole Machado,1
+21336, Valdomiro Cavalcanti,2
+8901, Nicole Lima Paschoal,6
+7378, Elaine Carmo,1
+21171, Kléber Lima,2
+17272, Nicolas Nazário Nazário,1
+6336, Rafael Machado Carmo,3
+12404, Nicole da Cruz,3
+8975, Carlos Pedroso,1
+5501, Rafael Farias da Silva,4
+10417, Isabela Correia,3
+506, Beatriz Lima Pacheco,4
+6748, Fernando de Salles,4
+9799, Carina Leal Ruiz,3
+6598, Taís Quadros,3
+7441, Heloísa Braz,4
+5600, Taís Barroso Paschoal,1
+6158, Adriano Farias,3
+22826, Fernando Correia,2
+8476, Antônio Silveira,4
+8086, Poliane Vargas,2
+18056, Elaine Vaz,3
+465, Janaína Falcão,1
+20050, Heloísa Lopes Monteiro,1
+3256, Janaína Paschoal,1
+15980, Taís Arruda Oliveira,1
+5278, Elaine Paschoal Vaz,2
+19975, Poliane Oliveira,1
+854, Fernando Ito Quadros,3
+11800, Émerson Braz Quadros,6
+6312, Fabiana Arruda,2
+20090, Elaine de Salles,1
+15300, Isabela Pacheco,2
+14211, Antônio Medeiros,2
+21591, Émerson da Cunha,2
+21686, Isabela Gimenes,4
+3183, Beatriz Medeiros,2
+17925, Rafael de Salles,1
+5969, Gilmar Ruiz,1
+16709, Rafael Paim Paschoal,1
+10967, Beatriz Assis,5
+22265, Kléber Paim Farias,4
+11220, Fernando Paschoal Cavalcanti,4
+3158, Rafael Simões,3
+19081, Rafael Vargas Carmo,8
+12621, Heloísa Lima Machado,3
+17591, Adriano Braga,5
+8820, Émerson Falcão,6
+13973, Rafael Gimenes,2
+5750, Émerson Velho,5
+161, Taís Paschoal,6
+1050, Émerson Correia,1
+6957, Carina Assis Oliveira,4
+9913, Taís Fraga,2
+20944, Adriano Braz Farias,6
+22017, Taís Gimenes Oliveira,3
+653, Adriano da Cruz Barroso,3
+14602, Janaína Vaz Ito,4
+8285, Fabiana Pedroso,2
+15349, Fernando Silveira Lopes,1
+9400, Antônio de Salles,3
+14899, Nicolas Machado,4
+14135, Fabiana Damasceno,1
+13064, Carlos Gimenes Gimenes,3
+3441, Beatriz da Cruz,2
+1319, Kléber da Cruz,4
+22706, Poliane Arruda Velho,2
+278, Elaine Machado,3
+9773, Rafael Braz,1
+24160, Antônio Arruda,4
+23171, Fabiana Pacheco Farias,5
+17642, Valdomiro Correia,5
+24097, Rafael Lima Farias,4
+9063, Fernando Nazário Leal,5
+24086, Taís Pedroso,5
+13542, Poliane Fraga Barroso,4
+12885, Poliane da Cunha,2
+8814, Carlos Correia,1
+12046, Fernando Paim Gimenes,2
+9018, Taís Medeiros,1
+10453, Elaine Correia Pacheco,1
+7503, Janaína Cavalcanti,3
+1579, Fernando Barroso Cavalcanti,5
+16225, Valdomiro Simões,2
+3354, Beatriz Fraga,1
+11954, Janaína Machado,3
+14388, Poliane Vaz de Salles,3
+23549, Antônio Leal Arruda,1
+16908, Isabela Assis Machado,3
+19203, Émerson Arruda Farias,7
+23051, Fabiana Velho Machado,4
+15432, Elaine Nazário Ito,2
+19538, Fernando Vargas Nazário,4
+11287, Fernando Falcão Damasceno,5
+1054, Émerson Paschoal,3
+8796, Carlos da Cunha,2
+895, Fernando Nazário,9
+21687, Nicole Gimenes da Cunha,2
+5186, Carina Monteiro Cavalcanti,1
+16274, Janaína Carmo,7
+11318, Nicole Farias,4
+792, Janaína Lopes Gimenes,5
+8132, Heloísa Machado Gimenes,5
+2855, Antônio Machado,2
+16994, Poliane Pacheco,1
+1890, Adriano Lima,3
+18443, Antônio Gimenes Braga,2
+22674, Adriano Braz,5
+2151, Elaine Paim Lopes,1
+10160, Valdomiro Arruda,4
+8938, Antônio Quadros,4
+8000, Elaine da Silva Medeiros,2
+1590, Janaína Braga,5
+17575, Taís Correia Nazário,4
+3629, Nicole Braz,6
+19752, Taís Simões,12
+4352, Rafael Braga Damasceno,4
+15208, Elaine Pedroso,1
+14104, Fernando de Salles Oliveira,3
+16175, Isabela Vargas,3
+16271, Carlos Carmo Silveira,1
+10779, Fernando Monteiro,5
+22477, Beatriz Vaz da Cruz,2
+1963, Rafael Fraga Damasceno,3
+9239, Kléber Silveira,6
+6541, Fernando Cavalcanti,3
+18870, Rafael Nazário,5
+8647, Carlos de Salles Nazário,4
+11702, Valdomiro Correia,1
+494, Fernando Gimenes Falcão,3
+19710, Valdomiro Lobo Gimenes,5
+1771, Émerson Medeiros da Cruz,5
+11617, Gilmar Nazário,3
+2541, Fernando Fraga,5
+5149, Antônio Oliveira Fraga,1
+23752, Taís Barroso,2
+12319, Kléber Nazário Assis,3
+23624, Taís Monteiro,2
+3324, Carina Assis,1
+16988, Antônio Machado de Salles,2
+13743, Nicole Ruiz Silveira,4
+2313, Taís Silveira,3
+22236, Valdomiro da Cunha,4
+4460, Janaína Farias,5
+12473, Isabela Vargas,4
+16292, Beatriz Pedroso Falcão,1
+15370, Nicolas Correia Arruda,2
+15105, Valdomiro Farias,3
+1138, Carina Velho,5
+6540, Taís Damasceno Gimenes,3
+13052, Gilmar da Cruz,3
+1483, Kléber Farias Carmo,6
+8185, Poliane Pacheco Nazário,4
+10033, Carina Velho,3
+16604, Elaine Ito,1
+747, Valdomiro Barroso Nazário,4
+17456, Fernando Leal Gimenes,1
+6955, Beatriz Simões Assis,4
+23891, Rafael Vaz Machado,3
+6439, Carlos Farias Silveira,3
+10759, Carina Monteiro Oliveira,2
+20597, Elaine Braga Leal,5
+12782, Fernando Braz Ruiz,4
+16027, Kléber Fraga Ruiz,4
+14395, Carina Silveira Machado,3
+12003, Carlos Gimenes Falcão,4
+14000, Carlos Silveira Gimenes,2
+1236, Fernando Vaz,2
+1899, Carlos Assis,3
+10503, Antônio da Silva,3
+16430, Carlos Medeiros,2
+12929, Janaína Damasceno,1
+12188, Isabela da Cruz de Salles,1
+9708, Fabiana da Silva Ito,5
+17416, Fernando Damasceno Lopes,4
+7238, Émerson Paim,5
+12113, Taís Leal Barroso,2
+14649, Antônio Assis Damasceno,2
+5554, Valdomiro Vaz,4
+3900, Nicole Gimenes,5
+22932, Fernando Ruiz,4
+15046, Rafael Assis Gimenes,1
+3231, Carina Medeiros,4
+3462, Nicole Paschoal Assis,1
+11074, Fernando Lima,5
+22226, Nicole Lima Silveira,1
+2806, Heloísa Gimenes,5
+3072, Isabela Lima,1
+13626, Nicolas Pacheco Lopes,3
+4618, Fernando Cavalcanti,1
+8280, Kléber Quadros Damasceno,1
+1072, Adriano Falcão,3
+10206, Fabiana Nazário,6
+9602, Fernando Correia,3
+10623, Émerson Oliveira Damasceno,4
+23342, Kléber Vargas,3
+12424, Rafael Vaz da Cunha,4
+12707, Adriano de Salles Ito,4
+12815, Carlos Assis,3
+10288, Janaína Paim Braga,2
+11812, Antônio Simões Quadros,3
+20393, Adriano da Silva Falcão,4
+21150, Émerson Machado,5
+9795, Carlos Damasceno,2
+697, Gilmar da Cunha,1
+19669, Valdomiro Arruda,6
+9161, Nicole Leal da Silva,3
+20710, Antônio Ito,3
+20817, Gilmar Braga Assis,3
+16229, Adriano Silveira,3
+19997, Antônio Nazário Ito,4
+8704, Poliane da Cunha,5
+23453, Fernando Lopes Correia,3
+10831, Rafael Barroso Gimenes,2
+6358, Rafael Machado,1
+20020, Janaína Pedroso,5
+20374, Carlos Braga,1
+15401, Taís Silveira,2
+6894, Poliane Braga,1
+18729, Carina Gimenes,3
+18523, Nicole Silveira,1
+3012, Kléber Braz Falcão,7
+13376, Émerson Lima Carmo,3
+8854, Antônio Nazário Paschoal,4
+5349, Émerson Monteiro Braz,2
+17773, Heloísa Braga Correia,3
+20147, Janaína Silveira,2
+6576, Nicolas Ito Lima,4
+2219, Adriano Carmo,3
+17195, Nicole Fraga,5
+18632, Fernando Gimenes Damasceno,3
+15724, Fabiana Arruda Lobo,1
+11392, Gilmar da Cunha,1
+12959, Carina Paschoal da Cunha,4
+22735, Poliane Damasceno,5
+15849, Fabiana Ruiz Carmo,3
+16392, Rafael Silveira,4
+3388, Antônio Paim da Cruz,2
+18481, Poliane Vargas Braz,3
+6886, Elaine Lima,1
+8234, Isabela Paim Gimenes,5
+10148, Heloísa Fraga,3
+14647, Poliane Machado Oliveira,2
+3929, Heloísa Lobo Vargas,1
+16365, Fernando Vargas,4
+13204, Valdomiro Assis,2
+8382, Poliane Machado,1
+8674, Rafael Vargas Paim,2
+3396, Carlos Pacheco Silveira,4
+8779, Heloísa Nazário,5
+21309, Émerson Barroso,6
+21002, Carlos Correia,5
+21027, Carlos Ito,5
+1840, Adriano Lima da Silva,3
+3765, Isabela Vaz,5
+9276, Heloísa Nazário,2
+13623, Heloísa Cavalcanti,6
+1848, Kléber Vaz,1
+7864, Carlos Braz,5
+16133, Beatriz Barroso Arruda,4
+11336, Kléber Lopes Ito,2
+21671, Isabela Paim,2
+1727, Carlos Ruiz Fraga,9
+11835, Isabela Nazário,7
+8246, Carina Carmo,2
+2264, Nicole Braz,2
+6263, Elaine Braz Medeiros,2
+13779, Valdomiro Machado Farias,1
+14715, Fabiana Lopes Oliveira,1
+18605, Carina Medeiros Falcão,10
+23432, Gilmar Leal,3
+3958, Fernando Barroso Simões,1
+11439, Fabiana Vaz,1
+2416, Carina Medeiros Ito,4
+8819, Janaína Lopes,4
+4305, Antônio Ito da Silva,5
+23296, Antônio de Salles,2
+10568, Émerson Braz,1
+15435, Valdomiro Braz Assis,2
+22124, Adriano Farias Medeiros,5
+2300, Gilmar Carmo,3
+5919, Poliane Lopes Silveira,1
+22736, Valdomiro Ito,3
+16467, Poliane Machado,5
+19261, Poliane Simões Barroso,1
+20371, Carina Lobo Vaz,4
+2796, Antônio Monteiro Velho,5
+4764, Adriano Velho,1
+8574, Heloísa Assis Cavalcanti,2
+6396, Valdomiro Paim da Silva,1
+18258, Janaína Braga,1
+6440, Gilmar Quadros,6
+2191, Gilmar Fraga Falcão,2
+5106, Valdomiro Assis,3
+8365, Isabela Pedroso,3
+2083, Nicolas Simões de Salles,3
+5523, Adriano Gimenes,3
+9121, Adriano Assis Carmo,4
+23867, Adriano Vargas Nazário,3
+3420, Kléber Gimenes,7
+23775, Poliane Farias Correia,4
+17347, Carlos Oliveira,4
+17982, Nicolas Silveira,2
+19297, Beatriz Carmo,4
+10351, Nicole Pacheco Braga,6
+11037, Janaína Medeiros Arruda,1
+19933, Elaine Pacheco da Cunha,5
+15766, Carlos Pacheco,3
+5053, Carina Barroso,4
+7270, Kléber Gimenes Ito,1
+17605, Beatriz Arruda,1
+15804, Poliane Pacheco Barroso,6
+14339, Isabela Arruda Lobo,6
+7395, Carlos Fraga Barroso,1
+13417, Fernando Ito Monteiro,4
+17101, Kléber Gimenes,4
+12248, Rafael Braz,1
+12589, Carina Damasceno,4
+5921, Fabiana Simões,2
+12426, Isabela Medeiros da Silva,3
+19483, Carina Nazário Simões,5
+14505, Isabela Leal Paim,2
+23916, Gilmar Machado,4
+4873, Nicole Velho,2
+23783, Nicole Simões,3
+539, Beatriz Braz,3
+1429, Isabela Monteiro Vaz,2
+10877, Rafael Farias,2
+23695, Fernando Damasceno,4
+21028, Kléber Falcão Oliveira,1
+10732, Antônio Silveira,3
+5550, Nicolas Vargas,1
+12555, Janaína Paschoal da Cruz,3
+5582, Carlos Ito,1
+20573, Carlos Leal,6
+1525, Carlos Velho Farias,1
+8337, Antônio Machado da Cruz,5
+9841, Taís Falcão Leal,4
+12298, Nicolas Arruda Machado,4
+17484, Gilmar Assis,5
+16827, Beatriz Oliveira Pedroso,6
+13222, Fabiana Assis Gimenes,1
+547, Carina Machado,5
+15824, Carlos Gimenes Falcão,1
+49, Fabiana Vargas Pedroso,4
+8432, Nicolas Paschoal,3
+14163, Beatriz Simões Paschoal,1
+16316, Fabiana da Cunha,3
+14795, Valdomiro Arruda,2
+2926, Beatriz Fraga,1
+8724, Gilmar Gimenes,1
+21058, Valdomiro Carmo Carmo,2
+1566, Heloísa Ruiz,1
+19834, Beatriz da Cruz,4
+17233, Beatriz de Salles,1
+6187, Fernando Gimenes,1
+15471, Isabela Lopes Lopes,3
+20006, Fabiana Braz Cavalcanti,4
+6791, Gilmar Lobo de Salles,1
+9068, Janaína Monteiro,2
+4407, Fernando Machado Lobo,2
+207, Nicolas Pacheco,3
+10165, Valdomiro Ito,2
+17479, Carina Nazário,8
+16918, Carlos Braz Braz,2
+17031, Carina Silveira Silveira,5
+10712, Fabiana Carmo,5
+15684, Rafael Braga,6
+20781, Nicolas Silveira,5
+13272, Isabela Damasceno Pedroso,4
+18003, Nicole Braga Correia,1
+13951, Émerson da Cruz Paschoal,2
+11736, Kléber Damasceno,2
+5873, Janaína Arruda Gimenes,1
+5610, Elaine Damasceno Silveira,3
+6704, Carina Quadros,4
+656, Carlos Nazário da Cruz,4
+20416, Taís Lima,3
+15503, Valdomiro Leal,2
+6818, Gilmar Quadros Correia,3
+13566, Antônio Vaz,3
+2104, Rafael Machado Simões,5
+1132, Isabela Vaz,2
+7176, Fabiana da Cruz,6
+18321, Gilmar Velho Correia,2
+4503, Adriano Falcão da Cunha,2
+23963, Janaína Braz,1
+3803, Elaine Correia,5
+20930, Carina Pacheco,5
+1843, Heloísa da Silva Simões,2
+5482, Nicolas Damasceno,1
+2463, Taís Damasceno Medeiros,4
+13466, Heloísa Gimenes Ruiz,1
+4464, Elaine Quadros,5
+2544, Carina Machado,1
+19035, Carlos Vargas Paim,5
+15184, Émerson Assis Pacheco,2
+15495, Poliane Machado Leal,5
+18406, Rafael Ruiz Lobo,2
+16673, Adriano Carmo Pacheco,1
+23594, Adriano Lobo Barroso,4
+675, Valdomiro Medeiros,6
+1642, Carlos Machado,3
+9016, Gilmar da Silva,3
+20280, Isabela Correia,4
+588, Heloísa Medeiros,3
+19113, Émerson Braga,3
+4984, Poliane da Cruz Pacheco,1
+1450, Taís Nazário Velho,6
+10513, Beatriz Medeiros Velho,2
+18922, Heloísa Lopes,2
+11453, Janaína de Salles,1
+12625, Poliane Lima,5
+4232, Nicole Damasceno,3
+17076, Fabiana Ruiz,2
+15739, Isabela Leal Falcão,1
+19409, Kléber Simões da Cruz,2
+3470, Rafael Oliveira,1
+20256, Janaína Falcão Machado,2
+14885, Elaine Fraga,3
+271, Janaína Silveira,2
+20618, Heloísa Damasceno Farias,5
+2008, Elaine Paschoal,1
+20857, Antônio Arruda Braz,2
+21787, Valdomiro Machado Oliveira,2
+23855, Elaine Carmo,7
+20762, Elaine Paschoal Falcão,3
+5396, Nicole Assis,4
+9971, Carina Braz,1
+11202, Elaine Oliveira Farias,9
+23715, Isabela Vargas,3
+47, Carlos Vargas Vargas,2
+7072, Elaine da Silva Machado,7
+13695, Carlos Monteiro Machado,2
+4649, Heloísa Machado,1
+19778, Valdomiro Pacheco,3
+17831, Taís Braga Barroso,1
+1923, Nicolas Fraga Velho,5
+9384, Fernando Pacheco Medeiros,1
+3588, Rafael Gimenes Farias,4
+2917, Carina de Salles Vargas,3
+22609, Poliane Machado Barroso,2
+4579, Nicole Braga,6
+13813, Heloísa Medeiros,3
+12515, Poliane Paim,5
+96, Taís Lima Lopes,1
+4045, Nicole Machado,6
+11374, Nicole Monteiro da Silva,1
+16449, Fabiana da Cunha,1
+14847, Nicolas Fraga Fraga,4
+7545, Isabela Lima Barroso,4
+9573, Poliane Farias Lobo,2
+14299, Heloísa Pedroso da Silva,1
+17360, Gilmar Braz Braz,2
+19287, Émerson Quadros,4
+5251, Poliane Pedroso,4
+6283, Valdomiro Fraga,5
+7483, Nicole Medeiros Braga,1
+11329, Rafael Lima,3
+442, Rafael Vaz Quadros,10
+19859, Fabiana Fraga,4
+15279, Elaine Silveira,4
+12433, Rafael da Cunha,5
+15089, Valdomiro Lobo,1
+13887, Gilmar Farias,1
+21914, Kléber da Silva,1
+11904, Fernando Braz,3
+16476, Heloísa Paschoal,2
+5651, Isabela Cavalcanti,1
+23137, Fabiana Arruda,5
+5190, Antônio Barroso,3
+10950, Janaína Fraga Lopes,3
+6591, Valdomiro Leal Falcão,2
+15142, Fernando Carmo,4
+3037, Heloísa Barroso,2
+988, Nicole Simões Arruda,5
+4788, Isabela Pedroso Arruda,1
+616, Antônio Machado,3
+2879, Taís Gimenes Pedroso,2
+18130, Janaína da Cunha,7
+10492, Nicole Barroso,2
+20750, Isabela Nazário Machado,3
+11735, Antônio Nazário,3
+8103, Beatriz Paschoal Gimenes,3
+23993, Taís da Cruz Velho,5
+7201, Nicolas Quadros Nazário,2
+10819, Valdomiro Farias,4
+16752, Adriano Assis Barroso,4
+4933, Valdomiro Braz Paim,5
+5027, Taís Vaz Pacheco,4
+18033, Elaine Nazário,4
+8048, Heloísa Leal,3
+18875, Isabela Velho Vargas,1
+9463, Carina Ruiz Ruiz,1
+12239, Nicolas Braz Paschoal,1
+17097, Adriano Cavalcanti,2
+17496, Carina Lima,1
+11909, Nicole Gimenes,4
+1629, Kléber Fraga,5
+15875, Antônio Medeiros Falcão,2
+20080, Carlos Paim Paim,4
+10379, Nicole Monteiro Oliveira,3
+4203, Elaine Monteiro da Cunha,2
+17668, Elaine Pacheco,1
+15511, Fabiana Barroso Gimenes,5
+23194, Heloísa Cavalcanti,5
+16790, Fernando Paschoal Farias,1
+8708, Émerson Vaz,1
+20524, Carlos Assis,4
+18482, Nicole Braz Pedroso,1
+11087, Adriano Barroso Oliveira,1
+19344, Carina Vaz,3
+5282, Heloísa Oliveira,2
+2863, Janaína Velho Ruiz,7
+14978, Poliane Oliveira,2
+15473, Elaine Correia,3
+13326, Elaine Vargas,5
+16499, Antônio Silveira,8
+10001, Heloísa Gimenes,1
+10079, Émerson Lopes,6
+13318, Nicole Gimenes da Cunha,1
+15635, Heloísa da Cruz Fraga,2
+7951, Nicolas Paim Farias,1
+1939, Nicolas Ito,2
+9352, Antônio Gimenes Nazário,4
+16473, Gilmar Paim Quadros,4
+4712, Fernando Fraga,1
+20701, Fabiana Barroso Gimenes,4
+21548, Rafael Paim Ito,2
+7611, Beatriz Assis,4
+13786, Janaína Vargas Cavalcanti,1
+5991, Nicole Monteiro,4
+7919, Elaine da Cruz Arruda,2
+3291, Taís Lopes,5
+17413, Janaína Gimenes Vaz,1
+13592, Rafael Gimenes,2
+8525, Rafael Ito Machado,2
+6570, Janaína Medeiros,1
+14955, Heloísa Pacheco,1
+12141, Carina Gimenes,1
+9425, Elaine Paim Lobo,1
+5304, Rafael Lopes,1
+19577, Elaine Farias Damasceno,2
+23603, Carlos Correia Falcão,1
+9931, Fernando Velho,1
+6038, Gilmar Nazário,2
+16771, Heloísa Machado da Cunha,3
+1187, Taís Silveira,5
+10574, Valdomiro Machado,3
+287, Fernando Machado Correia,2
+14699, Isabela Leal,2
+17589, Carina Braz,3
+22645, Adriano Vargas Machado,5
+22096, Nicolas Vargas Machado,1
+16730, Poliane Falcão,6
+23091, Elaine Lobo,4
+4343, Rafael de Salles Falcão,5
+7859, Kléber Ruiz Leal,3
+7368, Adriano da Silva Braz,3
+10750, Poliane da Cruz Arruda,4
+22143, Janaína Simões de Salles,3
+2567, Beatriz da Cruz Barroso,1
+16074, Nicole Barroso,2
+7082, Kléber Vargas,1
+3259, Taís de Salles,3
+2646, Nicolas Braz,2
+22184, Adriano da Silva,3
+7351, Taís Paschoal Braz,4
+11678, Carina Machado Medeiros,1
+17715, Carina Cavalcanti Correia,2
+5247, Fabiana da Cruz,1
+9665, Nicolas Machado Braga,5
+6127, Beatriz Lopes,5
+6087, Isabela da Cruz,2
+13327, Elaine da Cunha,1
+7814, Nicole Nazário Machado,2
+926, Rafael Leal Farias,1
+15177, Elaine Gimenes,4
+6676, Gilmar Cavalcanti da Cruz,6
+22402, Poliane da Silva,2
+17050, Antônio Lopes Nazário,1
+16652, Nicolas Ruiz,5
+19114, Beatriz Lopes Simões,3
+18655, Isabela Gimenes da Silva,7
+15942, Poliane Assis,2
+22709, Janaína Velho,5
+19506, Beatriz Ruiz Machado,2
+14933, Valdomiro Lopes Medeiros,1
+13530, Beatriz Pacheco Farias,4
+20892, Beatriz Assis,5
+4018, Beatriz de Salles Medeiros,6
+22296, Émerson Carmo,5
+22545, Valdomiro Gimenes,1
+11024, Elaine da Cruz Nazário,4
+2145, Taís Ito Gimenes,2
+7755, Heloísa Damasceno,1
+23504, Carlos Damasceno,3
+9702, Nicolas Carmo Gimenes,1
+22916, Nicolas Falcão Monteiro,4
+718, Janaína Silveira Braga,3
+19930, Valdomiro Farias da Silva,2
+17729, Carlos Pedroso Fraga,1
+19148, Beatriz Barroso,3
+22164, Beatriz Falcão Falcão,3
+8731, Janaína Pacheco,3
+22981, Adriano Arruda,3
+2815, Gilmar Damasceno Ito,5
+18956, Kléber Barroso,3
+15038, Elaine Carmo,4
+5217, Fernando Fraga,4
+5847, Valdomiro Pacheco Damasceno,3
+16118, Janaína Velho,5
+13002, Nicolas Braz Correia,3
+3976, Carina Cavalcanti,1
+12526, Taís Machado,4
+23658, Émerson Silveira,4
+23944, Carlos Braga,3
+16567, Nicole Pacheco,2
+9366, Émerson Pacheco da Cunha,4
+20835, Carina Braga,4
+18618, Carina Silveira Quadros,1
+2718, Fernando Pacheco,5
+13165, Isabela da Silva Lobo,2
+7686, Adriano Leal,1
+17379, Poliane Farias,2
+21871, Fabiana Correia,5
+8586, Kléber Silveira,4
+20000, Isabela Assis Nazário,5
+419, Elaine Lima Simões,4
+2503, Valdomiro Leal Machado,1
+15112, Isabela da Cunha Machado,1
+17963, Rafael Carmo Falcão,3
+8803, Kléber Damasceno,4
+6504, Poliane Assis Correia,3
+11186, Beatriz Monteiro Farias,4
+10409, Isabela Pedroso Barroso,5
+20115, Janaína Falcão Barroso,3
+3255, Gilmar Vargas,5
+19187, Carina Farias,2
+7897, Fernando Vaz,2
+10809, Carina da Silva,5
+12743, Elaine Pedroso Braga,2
+18836, Fabiana Oliveira Nazário,6
+17539, Elaine de Salles,5
+23542, Antônio Falcão Silveira,4
+3337, Poliane Vargas,5
+21006, Antônio Damasceno,2
+4531, Isabela Lobo Nazário,3
+3089, Fernando da Silva Pacheco,2
+11518, Kléber Barroso,5
+15078, Janaína Damasceno,4
+23821, Fabiana Ruiz Falcão,3
+6578, Gilmar Carmo,1
+23207, Rafael Quadros Leal,2
+23090, Adriano Quadros Ruiz,6
+14781, Valdomiro Simões,4
+21507, Antônio da Cunha,3
+13093, Janaína Paschoal Braga,2
+12272, Fabiana Pedroso Arruda,1
+1009, Fernando Silveira Paschoal,5
+16433, Kléber Monteiro,4
+20186, Carina Vargas,1
+23712, Fabiana Machado,1
+23024, Fernando Machado Vaz,6
+11530, Elaine Cavalcanti,2
+24111, Valdomiro Monteiro da Cruz,4
+22454, Isabela Vaz Ruiz,4
+2491, Elaine Monteiro Paim,4
+21462, Taís Machado,2
+12858, Antônio Arruda Cavalcanti,1
+9397, Gilmar Paim da Cruz,2
+3547, Isabela Arruda Vaz,5
+6222, Carlos Braz,2
+14805, Fabiana de Salles,4
+15478, Carina da Cunha Pacheco,6
+14115, Beatriz da Silva da Cunha,3
+123, Carina Assis Ito,4
+21244, Elaine Gimenes,3
+2680, Isabela Quadros Medeiros,4
+357, Elaine Vargas Gimenes,1
+21392, Taís Pacheco Gimenes,1
+14347, Carina Fraga,1
+12068, Valdomiro Gimenes Machado,4
+18343, Gilmar Fraga Gimenes,2
+11139, Taís Quadros,5
+669, Beatriz Carmo,4
+14318, Rafael Leal,3
+18336, Nicole Braga Velho,5
+11648, Fernando Paim,5
+16952, Elaine Falcão Gimenes,1
+2909, Heloísa de Salles,1
+20971, Nicole Ruiz Farias,4
+3679, Kléber Braga,1
+10487, Isabela de Salles,6
+12325, Fernando Pacheco,1
+24148, Carlos da Cunha,4
+15247, Nicole Medeiros Vargas,3
+21229, Isabela Arruda,2
+7407, Carlos Braga,3
+3155, Rafael Machado Barroso,5
+24197, Fabiana Ruiz da Cruz,3
+20184, Kléber Cavalcanti,2
+23389, Taís Lima Simões,5
+23440, Elaine Pacheco Gimenes,5
+18392, Carina Ruiz Silveira,3
+23419, Nicolas Correia da Cunha,4
+7672, Antônio Gimenes,2
+7128, Carlos Velho,5
+7363, Émerson da Silva da Silva,3
+10668, Elaine Cavalcanti,2
+11942, Gilmar Monteiro,3
+7001, Carina Oliveira,2
+13340, Carlos Quadros Lobo,3
+12197, Isabela Medeiros Leal,2
+17144, Carlos de Salles Arruda,4
+19388, Carlos Silveira,5
+970, Fabiana Paim Fraga,6
+1363, Nicolas Vaz Vaz,1
+5225, Isabela da Cruz,4
+7720, Taís Gimenes Machado,4
+11783, Fernando Arruda,1
+13489, Beatriz Vargas,4
+14039, Rafael Machado,1
+13926, Émerson Simões Machado,3
+9502, Janaína da Cruz de Salles,2
+1093, Carlos Lopes,5
+18847, Gilmar Simões Paschoal,4
+21941, Valdomiro Medeiros Paschoal,1
+4986, Nicole Paschoal Carmo,6
+16193, Janaína Pacheco Damasceno,2
+13648, Fernando Correia Monteiro,2
+9757, Valdomiro Barroso Paim,4
+21128, Adriano Pedroso,2
+21214, Valdomiro Cavalcanti,5
+21437, Elaine Carmo,1
+21520, Antônio Barroso Vargas,5
+21838, Valdomiro Silveira Gimenes,2
+816, Adriano Medeiros Paim,5
+379, Kléber Vaz,1
+11882, Antônio Vaz,1
+17191, Rafael Leal da Cunha,3
+20430, Nicolas Machado Vargas,3
+9377, Gilmar Simões,3
+3134, Elaine Damasceno Arruda,2
+7769, Taís Ruiz,1
+2013, Fabiana Simões,5
+13228, Kléber Machado,2
+19391, Rafael Paim Nazário,3
+23328, Adriano Nazário Vargas,1
+8321, Antônio Pedroso Vargas,3
+21763, Rafael Ito Gimenes,6
+13505, Isabela Lopes,5
+4576, Taís Velho,6
+16871, Fabiana Gimenes,4
+9536, Antônio Damasceno,1
+10100, Carina Carmo,4
+7422, Adriano Monteiro,3
+24073, Fabiana Cavalcanti Medeiros,2
+14105, Émerson Arruda,2
+3436, Poliane Arruda,3
+15582, Janaína Carmo,4
+22779, Poliane Velho,3
+3019, Adriano Pedroso Damasceno,4
+18751, Adriano Silveira,4
+15547, Adriano Barroso,4
+21952, Nicole Lobo Barroso,6
+11577, Rafael Machado,1
+17785, Taís Medeiros Paim,2
+14391, Nicolas Correia Pedroso,5
+3513, Elaine Machado Lobo,1
+18128, Isabela Silveira Farias,4
+18788, Kléber Ito Carmo,3
+12847, Rafael Paim,5
+10993, Adriano Braga,2
+18995, Nicolas Ito,2
+10382, Nicolas Leal Damasceno,7
+11242, Heloísa Cavalcanti,4
+13571, Isabela Pacheco Barroso,2
+1801, Taís Correia Paschoal,1
+20691, Poliane Medeiros,4
+23467, Nicole Lobo,6
+17304, Janaína Gimenes,2
+19627, Gilmar Paim,3
+13849, Beatriz Lobo,1
+9790, Rafael Braz,5
+4387, Elaine Lobo,1
+13676, Poliane Cavalcanti da Cunha,7
+5476, Rafael Lopes Oliveira,3
+13338, Nicole Ito,1
+3647, Gilmar Braga,5
+7448, Nicole Braz,5
+14754, Carlos Vaz,3
+18280, Rafael Medeiros,1
+3816, Beatriz Ruiz Pedroso,2
+24224, Adriano Oliveira,3
+20315, Nicole Braz,2
+19607, Antônio Paim,5
+22055, Elaine Monteiro Ruiz,2
+15210, Carlos da Cunha de Salles,5
+3718, Fernando Lima Medeiros,1
+2, Antônio Ito Gimenes,5
+12528, Carlos Fraga,1
+12695, Elaine Gimenes Lobo,1
+9871, Adriano Arruda,5
+12374, Isabela Vaz Pacheco,3
+500, Poliane Correia Lima,4
+10243, Carlos Vaz Braz,3
+2357, Isabela Assis,3
+2127, Taís Monteiro Farias,4
+20241, Isabela Braga,1
+9866, Beatriz da Cunha,2
+15591, Fabiana Oliveira Pedroso,2
+2962, Gilmar Medeiros Leal,2
+7460, Gilmar de Salles,2
+14433, Carina Braga,1
+5686, Beatriz Assis Barroso,2
+10957, Janaína Leal,3
+1152, Gilmar Vargas,1
+21795, Isabela Ito,1
+5075, Taís Simões Medeiros,2
+21882, Beatriz Farias,2
+18432, Fabiana Lobo Falcão,3
+11068, Kléber Leal,1
+4675, Nicolas Vargas,2
+10915, Adriano Velho,1
+20084, Fernando Braga,3
+20442, Janaína Silveira Silveira,4
+3438, Janaína Silveira,1
+18176, Émerson de Salles Farias,1
+5413, Nicolas Medeiros Simões,1
+7311, Adriano Quadros,5
+6841, Heloísa Machado Simões,1
+2966, Taís da Cruz Gimenes,3
+7518, Adriano Lopes da Cunha,4
+5581, Valdomiro Paim,6
+20404, Taís Gimenes,6
+19240, Nicolas de Salles Simões,4
+21726, Carlos Nazário,2
+8286, Kléber da Cunha Braz,4
+6629, Fabiana Braga Assis,3
+22249, Janaína Nazário Ruiz,6
+14766, Carina Assis,5
+12699, Antônio Braga Paim,4
+15563, Carlos Assis Lopes,4
+18719, Kléber Braga Fraga,2
+5770, Carlos Correia,1
+21995, Valdomiro Barroso,6
+17878, Poliane de Salles Pedroso,1
+20502, Gilmar da Cunha Lobo,6
+8139, Nicole Braz,1
+4974, Émerson Correia Arruda,1
+330, Elaine Carmo,2
