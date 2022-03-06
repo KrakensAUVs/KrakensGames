@@ -1,4 +1,37 @@
 import csv
+import os.path
+from os import path
+path.isfile('file.csv')
+
+class CreateMap:
+
+    def __init__(self):
+        self.map = {}
+        self.list_of_maps = []
+
+    def create_product(self, product, order):
+        self.map['Product Amount'] = f"{product.amount}"
+        self.map['Product Price'] = f"{product.price}"
+        self.map['Product Amount After'] = f"{product.amount - order.amount}" if order.foi_realizada else f"{product.amount}"
+
+    def create_order(self, order):
+        self.map['Order ID'] = f"{order.id}"
+        self.map['Consumer ID'] = f"{order.consumer_id}"
+        self.map['Product ID'] = f"{order.product_id}"
+        self.map['Order Amount'] = f"{order.amount}"
+        self.map['Foi Realizada'] = str(order.foi_realizada)
+
+    def create_consumer(self, consumer, order, product_price):
+        self.map['Consumer Wallet'] = f"{round(consumer.wallet, 2)}"
+        self.map['Order Total'] = f"{round(order.amount * product_price, 2)}"
+        self.map['Consumer Wallet After'] = f"{round(consumer.wallet - order.amount * product_price, 2)}" if order.foi_realizada else f"{round(consumer.wallet, 2)}"
+
+    def append_map(self):
+        self.list_of_maps.append(self.map)
+        self.map = {}
+
+    def get_list_of_maps(self):
+        return self.list_of_maps
 
 class Consumer:
     """ Classe para modelar a estrutura de dados para os consumidores.
@@ -98,12 +131,16 @@ def superInitConsumers(file_name):
     return CSVMethod.initConsumers(consumers_csv_list)
 
 def superInitOrders(file_name):
-    consumers_csv_list = CSVMethod.openCSV(file_name)
-    return CSVMethod.initOrders(consumers_csv_list)
+    orders_csv_list = CSVMethod.openCSV(file_name)
+    return CSVMethod.initOrders(orders_csv_list)
 
 def superInitProducts(file_name):
-    consumers_csv_list = CSVMethod.openCSV(file_name)
-    return CSVMethod.initProducts(consumers_csv_list)
+    products_csv_list = CSVMethod.openCSV(file_name)
+    return CSVMethod.initProducts(products_csv_list)
+
+def super_init(consumers_file, orders_file, products_file):
+    return superInitConsumers(consumers_file), superInitOrders(orders_file), superInitProducts(products_file)
+
 
 def findProduct(id_to_find, product_list):
     for row in product_list:
@@ -127,3 +164,19 @@ def checkOrder(order, products_list, consumers_list):
             return True
 
     return False
+
+
+def show_affected(consumers, orders):
+    consumers_af = 0
+    orders_af = 0
+
+    for consumer in consumers:
+        if consumer.foi_afetado:
+            consumers_af = consumers_af + 1
+
+    for order in orders:
+        if not order.foi_realizada:
+            orders_af = orders_af + 1
+
+    print(f"Número de consumidores afetados: {consumers_af}")
+    print(f"Número de ordens afetadas: {orders_af}")
