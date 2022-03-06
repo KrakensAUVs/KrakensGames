@@ -1,7 +1,7 @@
 import csv
 import os.path
 from os import path
-path.isfile('file.csv')
+
 
 class CreateMap:
 
@@ -180,3 +180,53 @@ def show_affected(consumers, orders):
 
     print(f"Número de consumidores afetados: {consumers_af}")
     print(f"Número de ordens afetadas: {orders_af}")
+
+
+def gen_csv_results_file(gen_file_name, data, fields):
+    if not path.isfile(gen_file_name):
+        with open(gen_file_name, 'w') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames = fields, dialect='excel')
+            writer.writeheader()
+            writer.writerows(data)
+        print(f"<Arquivo criado em {gen_file_name}>")
+    else:
+        print(f"<Arquivo já existe em {gen_file_name}>")
+
+def check_all(consumers, orders, products):
+    my_map = CreateMap()
+    for order in orders:
+        if checkOrder(order, products, consumers):
+            order.foi_realizada = True
+            my_map.create_order(order)
+            for product in products:
+                if order.product_id == product.id:
+                    __product_price = product.price
+                    my_map.create_product(product, order)
+                    product.amount = product.amount - order.amount
+                    break
+            for consumer in consumers:
+                if order.consumer_id == consumer.id:
+                    my_map.create_consumer(consumer, order, __product_price)
+                    consumer.wallet = round(consumer.wallet - order.amount * __product_price, 2)
+                    break
+            my_map.append_map()
+        else:
+            my_map.create_order(order)
+            for product in products:
+                if order.product_id == product.id:
+                    my_map.create_product(product, order)
+                    __product_price = product.price
+                    break
+            for consumer in consumers:
+                if order.consumer_id == consumer.id:
+                    my_map.create_consumer(consumer, order, __product_price)
+                    if not consumer.foi_afetado:
+                        consumer.foi_afetado = True
+                        consumer.compras_af = consumer.compras_af + 1
+                        break
+                    else:
+                        consumer.compras_af = consumer.compras_af + 1
+                        break
+            my_map.append_map()
+
+    return consumers, orders, products, my_map.get_list_of_maps()
